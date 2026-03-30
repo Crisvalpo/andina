@@ -1,0 +1,6 @@
+﻿ID_NDE;PORCENTAJE_NDE;METODO;APLICACION;NORMA
+VT;100%;Inspección Visual;Aplica a todo;
+RT;100%;Radiografía;Uniones a tope BW (Acero) Uniones de Terreno;Norma API 1104
+PT;100%;Líquidos Penetrantes;Uniones no BW (Acero);
+UT;100%;Ultrasonido;Termofusión (HDPE);ASME B31.3
+DT;5%;Ensayo Destructivo Aleatorio;Termofusión (HDPE);ASTM F2620

@@ -1,0 +1,108 @@
+﻿ID_LINEA;AWP_UNIT_AREA;AWP_GROUP;AWP_PHASE;AWP_CATEGORY;FLUIDO_SERVICIO;NPS_SIZE;CLASE_PIPING;DESDE_FROM;HACIA_TO;TEMP_OPERACION_C;TEMP_DISENO_C;PRESION_OPERACION_KG;PRESION_DISENO_KG;TIPO_PRUEBA;PRESION_PRUEBA_KG;REQ_PWHT;PORCENTAJE_NDE;ESQUEMA_PINTURA;RAL;REVESTIMIENTO_INT;AISLACION_EXT;ESPESOR_AISLACION;TEMP_TRACING;METROS_AS_BUILT;OBSERVACIONES_NOTAS;FECHA_CREACION;CREADO_POR;FECHA_ACTUALIZACION;ACTUALIZADO_POR
+"03351-CT-10""-C3-0079-R3";;;;;CT;10;C3;03351-ZZM-001;Tramo Vendor 03351-ESP-001;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+03351-CT-200-H2-0002-N;;;;;CT;8;H2;;;;20;;10,2;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+03351-CT-200-H2-0045-N;;;;;CT;8;H2;;;;20;;10,2;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0012-N";;;;;CT;3;C2;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0059-N";;;;;CT;3;C2;"03351-CT-6""-C3-0005-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0060-N";;;;;CT;3;C2;"03351-CT-6""-C3-0006-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0061-N";;;;;CT;3;C2;"03351-CT-6""-C3-0007-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0062-N";;;;;CT;3;C2;"03351-CT-6""-C3-0018-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0063-N";;;;;CT;3;C2;"03351-CT-6""-C3-0018-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0064-N";;;;;CT;3;C2;"03351-CT-6""-C3-0018-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0065-N";;;;;CT;3;C2;"03351-CT-6""-C3-0018-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0066-N";;;;;CT;3;C2;"03351-CT-6""-C3-0021-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0067-N";;;;;CT;3;C2;"03351-CT-6""-C3-0021-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0068-N";;;;;CT;3;C2;"03351-CT-6""-C3-0021-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0069-N";;;;;CT;3;C2;"03351-CT-6""-C3-0021-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0070-N";;;;;CT;3;C2;"03351-CT-6""-C3-0023-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0071-N";;;;;CT;3;C2;;A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0072-N";;;;;CT;3;C2;"03351-CT-6""-C3-0046-R3";A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0074-N";;;;;CT;3;C2;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-3""-C2-0086-N";;;;;CT;3;C2;;A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-4""-C2-0003-N";;;;;CT;4;C2;03351-CAJ-001;A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-4""-C2-0004-N";;;;;CT;4;C2;03351-CAJ-002;A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-4""-C3-0015-R3";;;;;CT;4;C3;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-4""-C3-0017-R3";;;;;CT;4;C3;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-4""-C3-0077-R3";;;;;CT;4;C3;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+03351-CT-400-H1-0057-N;;;;;CT;16;H1;PRETIL CONTENCION DERRAMES;POZO DE TRABAJO;;20;;6,3;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+03351-CT-400-H1-0058-N;;;;;CT;16;H1;PRETIL CONTENCION DERRAMES;POZO DE TRABAJO;;20;;6,3;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-6""-C11-0001-N";;;;;CT;6;C11;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-6""-C2-0047-N";;;;;CT;12;C2;03351-ESP-001;A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-6""-C3-0005-R3";;;;;CT;12;C3;03351-ESP-001;03351-BOC-001;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-6""-C3-0006-R3";;;;;CT;12;C3;03351-ESP-001;03351-BOC-002;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-6""-C3-0007-R3";;;;;CT;12;C3;03351-ESP-001;03351-BOC-003;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-6""-C3-0018-R3";;;;;CT;6;C3;03351-BOC-001;CAJON DISTRIBUIDOR (EXISTENTE);;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-6""-C3-0021-R3";;;;;CT;6;C3;03351-BOC-002;CAJON DISTRIBUIDOR (EXISTENTE);;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-6""-C3-0023-R3";;;;;CT;6;C3;03351-BOC-003;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-6""-C3-0030-R3";;;;;CT;6;C3;"03351-CT-6""-C3-0018-R3";03351-CAJ-002;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-6""-C3-0046-R3";;;;;CT;6;C3;"03351-CT-6""-C3-0023-R3";;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-CT-6""-C3-0050-R3";;;;;CT;6;C3;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-FP-1""-C5-0122-N";;;;;FP;1;C5;;A PISO;;40;;12,3;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-FP-2""-C5-0121-N";;;;;FP;6;C5;;;;40;;12,3;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-1""-C1-0031-N";;;;;GW;1;C1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-1""-C1-0032-N";;;;;GW;1;C1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-1""-C1-0033-N";;;;;GW;1;C1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-1""-C1-0034-N";;;;;GW;1;C1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-1""-C1-0035-N";;;;;GW;1;C1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-1""-C1-0036-N";;;;;GW;1;C1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-1""-C1-0043-N";;;;;GW;1;C1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-1""-C1-0075-N";;;;;GW;1;C1;03351-BOC-004;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-1""-C1-0076-N";;;;;GW;1;C1;03351-BOC-005;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-2""-C1-0040-N";;;;;GW;2;C1;03351-EST-001;03351-BOC-004/005;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-2""-C1-0041-N";;;;;GW;2;C1;"03351-GW-2""-C1-0040-N";03351-BOC-004;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-2""-C1-0042-N";;;;;GW;2;C1;"03351-GW-2""-C1-0040-N";03351-BOC-005;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-GW-2""-C1-0095-N";;;;;GW;2;C1;;03351-EST-001;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-1""-G1-0102-N";;;;;IA;2;G1;"03351-IA-2""-G1-0100-N";03351-TCN-011;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-1""-G1-0103-N";;;;;IA;2;G1;"03351-IA-2""-G1-0100-N";03351-TCN-008;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-1""-G1-0104-N";;;;;IA;2;G1;"03351-IA-2""-G1-0100-N";03351-TCN-009;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-1""-G1-0105-N";;;;;IA;2;G1;"03351-IA-2""-G1-0100-N";03351-TCN-007;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-1""-G1-0106-N";;;;;IA;2;G1;"03351-IA-2""-G1-0100-N";03351-TCN-013;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-1""-G1-0107-N";;;;;IA;2;G1;"03351-IA-2""-G1-0100-N";03351-TCN-002;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-1""-G1-0108-N";;;;;IA;2;G1;"03351-IA-2""-G1-0100-N";03351-TCN-003;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-1""-G1-0109-N";;;;;IA;2;G1;"03351-IA-2""-G1-0100-N";03351-TCN-004;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-1""-G1-0111-N";;;;;IA;2;G1;"03351-IA-2""-G1-0100-N";03351-TCN-001;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-2""-G1-0100-N";;;;;IA;8;G1;TIE-IN 03351-005;DISTRIBUCION AIRE INSTRUMENTO MANIFOLD;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-2""-G1-0101-N";;;;;IA;2;G1;"03351-IA-2""-G1-0100-N";03351-TCN-012;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-2""-G1-0110-N";;;;;IA;2;G1;"03351-IA-2""-G1-0112-N";03351-TCN-014;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-IA-2""-G1-0112-N";;;;;IA;8;G1;TIE-IN 03351-006;03351-TCN-010;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0014-N";;;;;PW;2;C1;"03351-PW-6""-C1-0013-N";03351-CAJ-002;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0024-N";;;;;PW;2;C1;"03351-PW-6""-C1-0013-N";"03351-CT-6""-C3-0018-R3";;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0025-N";;;;;PW;2;C1;"03351-PW-6""-C1-0013-N";03351-ESP-001;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0026-N";;;;;PW;2;C1;;"03351-CT-6""-C3-0021-R3";;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0028-N";;;;;PW;2;C1;"03351-PW-2""-C1-0025-N";"03351-CT-6""-C3-0023-R3";;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0038-N";;;;;PW;2;C1;"03351-PW-6""-C1-0013-N";;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0039-N";;;;;PW;2;C1;"03351-PW-6""-C1-0013-N";03351-EST-001;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0044-N";;;;;PW;2;C1;"03351-PW-6""-C1-0013-N";;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0048-N";;;;;PW;2;C1;"03351-PW-6""-C1-0013-N";;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0049-N";;;;;PW;2;C1;;03351-ESP-001;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0051-N";;;;;PW;2;C1;"03351-PW-2""-C1-0025-N";"03351-CT-6""-C3-0005-R3";;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0052-N";;;;;PW;2;C1;"03351-PW-2""-C1-0048-N";HV-1043;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0053-N";;;;;PW;2;C1;"03351-PW-2""-C1-0049-N";"03351-CT-6""-C3-0007-R3";;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0054-N";;;;;PW;2;C1;"03351-PW-6""-C1-0013-N";;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0055-N";;;;;PW;2;C1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0056-N";;;;;PW;2;C1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0078-N";;;;;PW;2;C1;;A PISO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0081-N";;;;;PW;2;C1;"03351-PW-2""-C1-0082-N";"03351-CT-6""-C3-0030-R3";;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0082-N";;;;;PW;2;C1;"03351-PW-6""-C1-0013-N";"03351-CT-6""-C3-0030-R3";;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0083-N";;;;;PW;2;C1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0084-N";;;;;PW;2;C1;"03351-PW-6""-C1-0013-N";;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0085-N";;;;;PW;2;C1;"03351-PW-2""-C1-0049-N";"03351-CT-6""-C3-0046-R3";;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0088-N";;;;;PW;2;C1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0089-N";;;;;PW;2;C1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0090-N";;;;;PW;2;C1;"03351-PW-6""-C1-0013-N";ESTACION SERVICIO;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0091-N";;;;;PW;2;C1;"03351-PW-2""-C1-0025-N";;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0092-N";;;;;PW;2;C1;"03351-PW-2""-C1-0048-N";;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-2""-C1-0093-N";;;;;PW;2;C1;BY PASS;HV-1026;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-4""-C1-0016-N";;;;;PW;4;C1;"03351-PW-6""-C1-0013-N";03351-ESP-001;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-4""-C1-0094-N";;;;;PW;4;C1;BY PASS;HV-1027;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+"03351-PW-6""-C1-0013-N";;;;;PW;6;C1;TIE IN 03351-003;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+03351-RW-250-H1-0009-N;;;;;RW;10;H1;03351-RW-450-H1-0008-N;POZO DE TRABAJO;;20;;6,3;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+03351-RW-250-H1-0010-N;;;;;RW;10;H1;03351-RW-250-H1-0011-N;POZO DECANTADOR 1;;20;;6,3;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+03351-RW-250-H1-0011-N;;;;;RW;10;H1;03351-RW-450-H1-0008-N;POZO DECANTADOR 2;;20;;6,3;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+03351-RW-450-H1-0008-N;;;;;RW;18;H1;03351-ESP-001;03351-RW-250-H1-0011-N;;20;;6,3;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+TIE-IN 03351-002;;;;;CT;8;-;;;;;;;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+TIE-IN 03351-003;;;;;PW;6;-;;;;;;;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+TIE-IN 03351-004;;;;;CT;8;-;;;;;;;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+TIE-IN-03351-005;;;;;IA;8;G1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+TIE-IN-03351-006;;;;;IA;8;G1;;;;38;;20;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara
+TIE-IN-03351-007;;;;;FP;8;C5;;;;40;;12,3;;;FALSO;;;;;;;;;;05/03/2026 19:03;Michael Vergara;05/03/2026 19:03;Michael Vergara

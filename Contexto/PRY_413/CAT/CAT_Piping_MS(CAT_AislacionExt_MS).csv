@@ -1,0 +1,5 @@
+﻿ID_AISLACION_EXT;TIPO_AISLACION;RESTRICCION_PINTURA 
+N;Sin Aislación;La cañería luce el esquema de pintura asignado
+HC;Conservación de Calor;La línea va revestida en chaqueta metálica o térmica exterior.
+PP;Protección Personal;Malla o recubrimiento externo de seguridad.
+ET;Electrical Tracing;Requiere llenado del campo TEMP_TRACING en el Line List.

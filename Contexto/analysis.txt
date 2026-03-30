@@ -1,0 +1,64 @@
+File 1 Sheets: ['TABLA END ', 'TABLA GENERAL ', 'DETALLE']
+Sheet TABLA END :
+[{'TEST PACK': 'TP-001', 'PLANO_ISO': '3900AE-OPW-390-0130-1', 'N° UNION': 'S003', 'N° TEST': 'Test  9409', 'TIPO_SOLD': 'LET', 'Cuenta de SIN END ': 1}, {'TEST PACK': 'TP-003A', 'PLANO_ISO': '3900AE-OPW-390-0702-1', 'N° UNION': 'F011', 'N° TEST': 'Test  22862', 'TIPO_SOLD': 'BW', 'Cuenta de SIN END ': 1}]
+
+Sheet TABLA GENERAL :
+[{'TEST PACK': 0, 'PLANO_ISO': '0001AE-DR-380-5256-1', 'N° UNION': 'F005', 'N° TEST': 'Test  3920', 'TIPO_SOLD': 'BW', 'UNIONES PENDIENTES POR REPORTAR ': 'PENDIENTE POR REPORTAR ', 'SIN TRATAMIENTO ': 'SIN TRATAMIENTO ', 'SIN END ': 'SIN ENSAYO ', 'ACEPT_RECH': '(en blanco)'}, {'TEST PACK': nan, 'PLANO_ISO': nan, 'N° UNION': 'F010', 'N° TEST': 'Test  3929', 'TIPO_SOLD': 'BW', 'UNIONES PENDIENTES POR REPORTAR ': 'PENDIENTE POR REPORTAR ', 'SIN TRATAMIENTO ': 'SIN TRATAMIENTO ', 'SIN END ': 'SIN ENSAYO ', 'ACEPT_RECH': '(en blanco)'}]
+
+Sheet DETALLE:
+[{'0': '0', 1: 1, 'SWS': 'SWS', nan: nan, '3900UG-OWS-390-0001-0': '3900UG-OWS-390-0001-1', nan: nan, 'SP01': 'SP01', 'S001': 'S002', 'BW': 'BW', 4: 4, 'STD': 'STD', 6.02: 6.02, 'A1U30': 'A1U30', 'A106': 'A106', 'JAB01': 'JAB01', Timestamp('2024-07-26 00:00:00'): Timestamp('2024-07-26 00:00:00'), '4B': '4B', 'WPS-SYR-002': 'WPS-SYR-002', 0.1: 0.1, '001': '001', datetime.datetime(2024, 9, 5, 0, 0): datetime.datetime(2024, 8, 21, 0, 0), 'B': 'B', NaT: NaT, 'S': 'S', nan: nan, '4-OWS-1-A1U30': '4-OWS-1-A1U30', 150: nan}, {'0': 0, 1: 1, 'SWS': 'SWS', nan: nan, '3900UG-OWS-390-0001-0': '3900UG-OWS-390-0001-1', nan: nan, 'SP01': 'SP02', 'S001': 'F003', 'BW': 'FW', 4: 4, 'STD': 'STD', 6.02: 6.02, 'A1U30': 'A1U30', 'A106': 'A106', 'JAB01': 'S0001', Timestamp('2024-07-26 00:00:00'): Timestamp('2024-11-12 00:00:00'), '4B': '4B', 'WPS-SYR-002': 'WPS-EIM-001', 0.1: 0.1, '001': 529, datetime.datetime(2024, 9, 5, 0, 0): nan, 'B': nan, NaT: NaT, 'S': 'F', nan: nan, '4-OWS-1-A1U30': '4-OWS-1-A1U30', 1
+
+
+File 2 Sheets: ['Ficha P6 1300 Shop', 'Ficha P6 1300 Field', 'MASTER SOPORTES 13-feb', 'RESUMEN HH', 'List. Iso. Recibidos', 'Hoja3', 'RESUMEN SWS AE-PR', 'RESUMEN WSA', 'Hoja2', 'R.GRAL TEST PACK', 'Hoja4', 'Resumen Gral. Líneas', 'Piping LB', 'PARTIDAS SIN ITEM', 'Piping SB', 'Válvulas', 'Control Uniones', 'Resumen Spool', 'Hoja1', 'TEST PACK', 'Control Pintura', 'Instrumentos', 'Sampling', 'Cubicación LARGO SPOOLS', 'Cantidades POM y Avance', 'LineListWorkREV 1A', 'Sheet1']
+Sheet Ficha P6 1300 Shop:
+[{nan: nan, 'Area': 'Área WSA', 'Planning\nCPG': nan, '#.ESP': nan, 'Id': nan, 'Etapa': nan, 'ELEMENTO': nan, 'CÓDIGO E2': nan, 'Sub-área': nan, 'HH Prog\nrev 2.2': 16169, 'POM HH Rev 3.0': 15567.26500000013, 'POM HH': 15583.265000000125, 'Avance HH': 14983.317000000128, 'Ant': nan, 'Parcial': nan, 'Rem': nan, '.': nan, '% Av. POM': 0.9615004942802429, '% Av. Rev 2.2': 0.9266693673078191, nan: nan, 'Uni': nan, 'POM Cant. Rev 3.0': nan, 'POM Cant': nan, 'Av.Cant.': nan, '% Av.': nan}, {nan: nan, 'Area': nan, 'Planning\nCPG': nan, '#.ESP': nan, 'Id': nan, 'Etapa': nan, 'ELEMENTO': nan, 'CÓDIGO E2': nan, 'Sub-área': 'LB - Piping Erection UNIONES', 'HH Prog\nrev 2.2': 14349, 'POM HH Rev 3.0': 15488.86500000013, 'POM HH': 15515.505000000125, 'Avance HH': 14916.957000000128, 'Ant': 3174, 'Parcial': 31, 'Rem': 45, '.': nan, '% Av. POM': 0.9614225898544719, '% Av. Rev 2.2': 1.0395816433201008, nan: nan, 'Uni': nan, 'POM Cant. Rev 3.0': 3250, 'POM Cant': 3330, 'Av.Cant.': 3205, '% Av.': 0.96246
+
+Sheet Ficha P6 1300 Field:
+[{nan: nan, 'Area': 'Área WSA', 'Planning\nCPG': 'Área WSA', '#.ESP': nan, 'Id (En Elaboración)': nan, 'Etapa': nan, 'Etapa Control': nan, 'ELEMENTO': nan, 'CÓDIGO E2': nan, 'Sub-área': nan, 'HH Prog\nrev 2.2': 31042.769999999997, 'POM HH Rev 3.0': 38620.46154130501, 'POM HH': 39082.37614192701, 'Avance HH OTE': 6586.130715605198, 'Ant': nan, 'Parcial': nan, 'Rem': 32034.330825699813, '.': nan, '% Av. POM Rev 3.0': 0.17053474901021723, '% Av. POM': 0.16851919882475344, '% Av. Rev 2.2': 0.21216311287959155, 'Uni': nan, 'POM Cant. Rev 3.0': nan, 'POM Cant': nan, 'Av.Cant.': nan, 'Cant. Rem': nan, '% Av. Cant.': nan}, {nan: nan, 'Area': nan, 'Planning\nCPG': nan, '#.ESP': nan, 'Id (En Elaboración)': nan, 'Etapa': nan, 'Etapa Control': nan, 'ELEMENTO': nan, 'CÓDIGO E2': nan, 'Sub-área': 'PIPING ERECTION LB', 'HH Prog\nrev 2.2': nan, 'POM HH Rev 3.0': 26433.93068480501, 'POM HH': 26836.905925427003, 'Avance HH OTE': 5954.168228655199, 'Ant': nan, 'Parcial': nan, 'Rem': 20479.762456149812, '
+
+Sheet MASTER SOPORTES 13-feb:
+[{nan: nan, nan: 1601.4346223800026, 'SUMINISTRO Y FABRICACION': 0.6, 'MONTAJE': 0.1, 19720.38496488008: 1, 3118: nan, 'AVANCE SEMANAL': 19720.38496488008, 'HH': 4592.842115296223, 'AVANCE EDP': 19720.38496488008}, {nan: nan, nan: 'Avance Per.64', 'SUMINISTRO Y FABRICACION': 'Fabricación Maestranza', 'MONTAJE': 'Traslado a terreno', 19720.38496488008: 'Total Kg. Montados', 3118: 'Total Un.Montado', 'AVANCE SEMANAL': 'Avance Acumulado', 'HH': 'HH Acumuladas', 'AVANCE EDP': 'Avance Acumulado EDP'}]
+
+Sheet RESUMEN HH:
+[{nan: nan, 'AREA': 'Interconnecting Line_SWS 3', 'SUB-AREA': 'Around Equipment', 'Suma de HH TOTAL': 157.3533, 'Suma de HH GANADAS TOTALES': 0, 'Suma de HH GANADAS ANT.': 0, 'Suma de HH GANADAS PERIODO': 0}, {nan: nan, 'AREA': 'Interconnecting Line_SWS 3', 'SUB-AREA': 'PIPE-RACK', 'Suma de HH TOTAL': 5806.742079999998, 'Suma de HH GANADAS TOTALES': 0, 'Suma de HH GANADAS ANT.': 0, 'Suma de HH GANADAS PERIODO': 0}]
+
+Sheet List. Iso. Recibidos:
+[{nan: nan, nan: nan, 205: nan, 'Solo 17 de 35 ISO de Listado WSA Around Equipment REV.0': nan, 'Etiquetas de fila': 'Interconnecting Line', 'Suma de FORMATO IDF': 91, 'Suma de TOTAL': 198, 'Suma de EJECUTADO': 198, 'Suma de FALTANTES': 0}, {nan: nan, nan: nan, 205: nan, 'Solo 17 de 35 ISO de Listado WSA Around Equipment REV.0': nan, 'Etiquetas de fila': 'SWS 3', 'Suma de FORMATO IDF': 459, 'Suma de TOTAL': 842, 'Suma de EJECUTADO': 841, 'Suma de FALTANTES': 1}]
+
+Sheet Hoja3:
+[{nan: nan, nan: nan, 'N°ISOMETRICO': '3800AE-AV-380-1618-1', 'N° LÍNEA': 'AV-380-1618', 'REV. ISO': 3, 'TIPO LÍNEA': 'Larger Size', 'ÁREA': 'WSA', 'SUB-ÁREA': 'Around Equipment', 'ARCHIVO': 'K484-3800-0000-NM-1350-30', 'REV. ARCHIVO': 30, 'TML': 'K484-KT-EIMISA1-T-1361', 'FECHA': datetime.datetime(2025, 7, 4, 0, 0), 'COMENTARIO ': 'SOLO SE DEBE AGREGAR UNIÓN F066 NO CONSIDERADA EN SPOOLEO', 'RESPONSABLE': 'OT'}, {nan: nan, nan: nan, 'N°ISOMETRICO': '3800AE-AV-380-1619-1', 'N° LÍNEA': 'AV-380-1619', 'REV. ISO': 3, 'TIPO LÍNEA': 'Larger Size', 'ÁREA': 'WSA', 'SUB-ÁREA': 'Around Equipment', 'ARCHIVO': 'K484-3800-0000-NM-1350-30', 'REV. ARCHIVO': 30, 'TML': 'K484-KT-EIMISA1-T-1361', 'FECHA': datetime.datetime(2025, 7, 4, 0, 0), 'COMENTARIO ': 'SOLO SE DEBE AGREGAR UNIÓN F060 NO CONSIDERADA EN SPOOLEO', 'RESPONSABLE': 'OT'}]
+
+Sheet RESUMEN SWS AE-PR:
+[{nan: nan, 'AREA': 'SWS 3', 'SUB-AREA': 'Around Equipment', 'Pulg Total': 9860, 'Total Ejecutadas': 3581, 'Pendiente': 2, nan: nan, 'Pulgadas Totales': 3589, 'Pendientes': 8}, {nan: nan, 'AREA': 'SWS 3', 'SUB-AREA': 'Pipe Rack', 'Pulg Total': 2813, 'Total Ejecutadas': 1099, 'Pendiente': 0, nan: nan, 'Pulgadas Totales': 1171, 'Pendientes': 72}]
+
+Sheet RESUMEN WSA:
+[{nan: nan, 'AREA': 'SWS 3', 'SUB-AREA': 'Around Equipment', 'Pulg Total': 9860, 'Total Ejecutadas': 3581, 'Pendiente': 2, nan: nan, 'Pulgadas Totales': 3589, 'Pendientes': 8, nan: nan, nan: nan, nan: nan}, {nan: nan, 'AREA': 'SWS 3', 'SUB-AREA': 'Pipe Rack', 'Pulg Total': 2813, 'Total Ejecutadas': 1099, 'Pendiente': 0, nan: nan, 'Pulgadas Totales': 1171, 'Pendientes': 72, nan: nan, nan: nan, nan: nan}]
+
+Sheet Hoja2:
+[{nan: nan, nan: nan, nan: nan, nan: nan, 'ISOMETRIA ': '3800AE-N-380-6401-1', 'SPOOL': 'SPOOL-25', 'ITEM CODE': 'I64095379', 'C/U': 1, nan: nan, nan: nan, nan: nan, 'ISO NUMBER': '3800AE-N-380-6401-1', 'SPOOL NUMBER': 'SP25', 'Suma de Ø-Pulg Total': 0.5}, {nan: nan, nan: nan, nan: nan, nan: nan, 'ISOMETRIA ': '3800AE-O-380-0102-1', 'SPOOL': 'SPOOL-05', 'ITEM CODE': 'I66304717', 'C/U': 1, nan: nan, nan: nan, nan: nan, 'ISO NUMBER': '3800AE-O-380-0102-1', 'SPOOL NUMBER': 'SP05', 'Suma de Ø-Pulg Total': 20}]
+
+Sheet R.GRAL TEST PACK:
+[{nan: nan, nan: nan, 'ESTADO SPOOLS': 'FABRICACIÓN', 'AVANCE ML': 'LB', 'AVANCE VÁLVULAS': nan, 'AVANCE UNIONES': nan, 'AVANCE SOPORTES': nan, 'AVANCE HH TP MONTAJE': nan, 'AVANCE HH PH': nan, 'AVANCE TOTAL': nan, nan: nan, nan: nan}, {nan: nan, nan: nan, 'ESTADO SPOOLS': 2739, 'AVANCE ML': 11150.987000000005, 'AVANCE VÁLVULAS': 2664, 'AVANCE UNIONES': 24041, 'AVANCE SOPORTES': 42237.98781729999, 'AVANCE HH TP MONTAJE': 82036.229542602, 'AVANCE HH PH': 8439.378529499996, 'AVANCE TOTAL': 90475.60807210198, nan: nan, nan: nan}]
+
+Sheet Hoja4:
+Could not find header
+
+Sheet Resumen Gral. Líneas:
+[{nan: nan, nan: nan, 'ESTADO SPOOLS': 'FABRICACIÓN', 'AVANCE ML': 'LB', 'AVANCE VÁLVULAS': nan, 'AVANCE UNIONES': nan, 'AVANCE HH LB (M)': nan, 'AVANCE HH SB': nan, 'AVANCE HH UNIONES TERRENO': nan, 'AVANCE HH VÁLVULAS': nan, 'AVANCE HH LÍNEAS MONTAJE': nan, 'AVANCE HH PH': nan, 'AVANCE HH TOTALES ': nan}, {nan: nan, nan: 0, 'ESTADO SPOOLS': 19, 'AVANCE ML': 80.72999999999999, 'AVANCE VÁLVULAS': 15, 'AVANCE UNIONES': 193, 'AVANCE HH LB (M)': 80.72999999999999, 'AVANCE HH SB': 50.262, 'AVANCE HH UNIONES TERRENO': 146, 'AVANCE HH VÁLVULAS': 15, 'AVANCE HH LÍNEAS MONTAJE': 440.041359, 'AVANCE HH PH': 59.906325, 'AVANCE HH TOTALES ': 499.94768400000004}]
+
+nan
+Traceback (most recent call last):
+  File "d:\Github\Andina\contexto\analyze.py", line 31, in <module>
+    out += f'Sheet {s}:\n{str(analyze_sheet(df))[:1000]}\n\n'
+                              ~~~~~~~~~~~~~^^^^
+  File "d:\Github\Andina\contexto\analyze.py", line 12, in analyze_sheet
+    return df.iloc[list(df.index).index(idx)+1:].head(2).to_dict(orient='records')
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luke\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pandas\util\_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Luke\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pandas\core\frame.py", line 2178, in to_dict
+    return to_dict(self, orient, into=into, index=index)
+  File "C:\Users\Luke\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pandas\core\methods\to_dict.py", line 237, in to_dict
+    row[col] = maybe_box_native(row[col])
+                                ~~~^^^^^
+KeyError: nan

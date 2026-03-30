@@ -1,0 +1,9 @@
+﻿ID_TIPO_UNION;ACRONIMO;NMB_UNION;TIPO_UNIONES;METODO_TRABAJO;NDE_REQUERIDO ;APLICACION
+BW;BW;Butt Weld;Soldadura a Tope;SOLDADURA;RT;Cañerías metálicas (ASME B16.25)
+SW;SW;Socket Weld;Soldadura a Encaje;SOLDADURA;PT;Cañerías metálicas (Fitting/Válvula)
+THD;THD;Threaded;Conexiones Roscadas;ROSCADO;VT;NPT (ASME B1.20.1)
+VIC;VIC;Grooved;Acoples Ranurados;MECÁNICO;VT;Acoples tipo Victaulic
+TF;TF;Butt Fusion;Fusión a Tope;FUSIÓN;UT;Termofusión automatizada (HDPE)
+BT;BT;Flanged;Unión con Bridas;EMPERNADO;VT;Válvulas y equipos (FF/RF)
+SO;SO;Slip On;Soldadura Deslizable (Filete);SOLDADURA;PT;Bridas para tuberías metálicas (ASME B16.5 / B16.47)
+LET;LET;Fillet Weld;Soldadura por Filete;SOLDADURA;PT;Uniones metálicas (Refuerzo / Filete)

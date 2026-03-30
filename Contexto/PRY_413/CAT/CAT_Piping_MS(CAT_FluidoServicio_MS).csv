@@ -1,0 +1,13 @@
+﻿ID_FLUIDO;NOMBRE;DESCRIPCION;COLOR_PINTURA
+CT;Concentrado Cu - Mo;Pulpa / Concentrado abrasivo;8002
+PW;Agua de Proceso;Agua limpia de proceso;6024
+GW;Agua de Sello;Agua de sello de bombas;6024
+RW;Agua Recuperada;Agua reutilizada;6024
+IA;Aire de Instrumentacion;Aire comprimido de control;5012
+FP;Agua Contra Incendio;Protección incendio;3020
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;

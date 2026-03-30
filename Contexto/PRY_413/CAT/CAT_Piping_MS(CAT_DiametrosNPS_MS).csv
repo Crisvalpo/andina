@@ -1,0 +1,23 @@
+﻿ID_NPS;NPS_SIZE;DIAMETRO_WDI;TIPO_MATERIAL;UNIDAD_MEDIDA
+3/4;3/4;0,75;Acero Carbono ASME B36.10;Pulgadas
+1;1;1,00;Acero Carbono ASME B36.10;Pulgadas
+1.1/4;1.1/4;1,25;Acero Carbono ASME B36.11;Pulgadas
+1.1/2;1.1/2;1,50;Acero Carbono ASME B36.11;Pulgadas
+2;2;2,00;Acero Carbono ASME B36.10;Pulgadas
+3;3;3,00;Acero Carbono ASME B36.10;Pulgadas
+4;4;4,00;Acero Carbono ASME B36.10;Pulgadas
+6;6;6,00;Acero Carbono ASME B36.10;Pulgadas
+8;8;8,00;Acero Carbono ASME B36.10;Pulgadas
+10;10;10,00;Acero Carbono ASME B36.10;Pulgadas
+12;12;12,00;Acero Carbono ASME B36.10;Pulgadas
+16;16;16,00;Acero Carbono ASME B36.10;Pulgadas
+18;18;18,00;Acero Carbono ASME B36.10;Pulgadas
+24;24;24,00;Acero Carbono ASME B36.10;Pulgadas
+50;50;2,00;HDPE (ISO 4427);Milimetros
+110;110;4,00;HDPE (ISO 4427);Milimetros
+160;160;6,00;HDPE (ISO 4427);Milimetros
+200;200;8,00;HDPE (ISO 4427);Milimetros
+250;250;10,00;HDPE (ISO 4427);Milimetros
+315;315;12,00;HDPE (ISO 4427);Milimetros
+400;400;16,00;HDPE (ISO 4427);Milimetros
+450;450;18,00;HDPE (ISO 4427);Milimetros

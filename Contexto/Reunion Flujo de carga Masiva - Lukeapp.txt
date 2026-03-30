@@ -1,0 +1,1709 @@
+Ya la idea es dar cumplimiento a uno de las de los hitos del de la innovación por este lado y es tratar de tener un feedback con los cubicadores y con la gente de terreno para el tema del uso de los flujos de la aplicación. Chiquillos, Michael ya la conoció en Concón. El Enzo algo que alcanzó a ver al final.
+Y estamos ahora ya trabajando para que podamos llevar una versión andina.
+Okay.
+
+Michael Vergara Troncoso   1:04
+Okay.
+
+Cristian Luke Cabello   1:04
+Michael, consulta, ¿pudiste ingresar al a la aplicación en el computador?
+
+Enzo Santambrogio Vega   1:04
+David, I think.
+
+Michael Vergara Troncoso   1:10
+En eso, en eso estoy.
+
+Cristian Luke Cabello   1:11
+Didn't.
+Trata de compartirnos pantalla y tengo más o menos en los pasos.
+Pues ahí conversamos sobre el sobre el flujo, la idea primero es que tengamos ahí.
+La pantalla que está entrando ingresando la aplicación.
+
+Michael Vergara Troncoso   1:30
+En eso estoy que tenía un problema con la computadora.
+
+Cristian Luke Cabello   1:35
+Enzo a ti como te fue, pudiste ingresar.
+Al link que dejamos.
+Revisa el chat del team.
+
+Enzo Santambrogio Vega   1:46
+No, yo la verdad.
+
+Cristian Luke Cabello   1:49
+Ya bueno, tomémonos un tiempito, igual es 1 horita que podemos tener.
+
+Enzo Santambrogio Vega   1:54
+Dame un momento que si le voy a compartir el make.
+
+Cristian Luke Cabello   1:55
+En este mismo chat les voy a dejar de nuevo los links.
+
+Michael Vergara Troncoso   1:55
+Eric.
+Set up.
+No.
+
+Cristian Luke Cabello   2:02
+Michael generó una cuenta de las cuentas compartidas que vamos a tener.
+Ya sea, sería la tercera cuenta. Entonces, como estamos limitados a 10, tenemos que cuidar de los accesos. Ahí en el chat estoy dejando para que puedan abrir la aplicación en el navegador.
+Y le estoy pasando para que puedan hacer uso de.
+De la cuenta de Michael.
+O K, ahí está en el chat, el link y la el número, el la password y la cuenta email.
+Entrada el Michael o el Enzo se logran conectar a la pantalla compartida. Voy a compartirles, yo voy a mostrarle más o menos el flujo de usuario.
+Ya avísenme si ven mi pantalla.
+
+Michael Vergara Troncoso   3:15
+Sí se ve la pantalla.
+
+Cristian Luke Cabello   3:19
+Ya actualmente esta versión.
+Tiene definido un par de roles, entonces si nos vamos acá a iniciar sesión en este botón.
+Ustedes pueden ver acá abajo aparece el rol. Acá arriba aparecen los usuarios y tenemos creado en este momento el rol de invitados. Si lo pulsamos, nos aparece que el invitado solamente tendría acceso de lectura en la aplicación.
+Y si pulsamos otro usuario, esos usuarios ya están definidos por su rol. La idea es que ustedes puedan agregar más trabajadores, más colegas siendo administradores. Entonces, por ejemplo, siendo administrador te va a aparecer el botón que está acá que dice gestionar tu usuario. Entonces, si yo entro con esta clave.
+A mi usuario, después la vamos a cambiar.
+Ahí está recargando la pantalla, la información.
+Aparece este botón, gestionar los usuarios y aquí en este panel ustedes pueden agregar más personas y llenar lo que le estaba pidiendo acá el formulario. En teoría sería el nombre de la persona.
+Por ejemplo, si va al Michael.
+Michael Vergara.
+Yeah.
+Las claves por ahora no tienen que ser ultra mega segura, pero tienen que ser suyas. Después en su rol de administrar las pueden cambiar.
+Cuando definan el usuario que van a darle acceso, acá ustedes les van a dar uno de estos accesos y de acuerdo a la lógica de la aplicación va a ser lo que cada uno pueda hacer. Por ahora estamos viendo la lógica de OT y la lógica de ustedes como administradores. Me imagino que Michael va a quedar como administrador y después él va a designar ahí el flujo hacia abajo. Entonces a Michael se le está dando acceso para su PC.
+Podríamos también agregar un WhatsApp y Michael va a usar una de las cuentas compartidas que está asociada a Michael y Miss Sandino. Eso entiendo que es correcto.
+Ok, entonces con eso, así tan simple, creamos un nuevo usuario.
+El después podría loguearse acá.
+Entonces ahí ya no aparece el Michael en su rol de administrador, siempre fijarse.
+Cuando esto está cargando acá es porque está sincronizando con la base de datos, en este caso con SharePoint.
+Entonces, para que esto ocurra, tiene que guardarse lo que se escribió en el formulario, se guardó y iniciamos sesión. Eso cuando tengan en terreno que agregar a alguien va a ser un poco más complicado por la señal. Quizás la persona tenga que darle 2 o 3 veces al sincronizar.
+Vale.
+
+Michael Vergara Troncoso   6:15
+Vale.
+
+Cristian Luke Cabello   6:16
+Estoy siguiendo Michael.
+
+Michael Vergara Troncoso   6:18
+sí.
+
+Cristian Luke Cabello   6:20
+En su tema me siguió más o menos con el tema de agregar usuario.
+
+Enzo Santambrogio Vega   6:23
+Sí, estoy atento.
+
+Cristian Luke Cabello   6:25
+Ya ahora me interesaría que pudiera entrar uno de ustedes, bueno, Michael, que estaba ingresado aquí en el panel de login y agregar a Enzo.
+
+Michael Vergara Troncoso   6:35
+Sí, me está cargando todavía la que el Internet no es muy bueno, acá está hermoso.
+
+Cristian Luke Cabello   6:42
+Ya mientras están.
+
+Michael Vergara Troncoso   6:43
+Pero ya pude agregar la aplicación al computador.
+
+Cristian Luke Cabello   6:47
+Ya estáis viendo una pantalla similar a la que estoy mostrando en.
+Te cargó algo así, recuerda que teníamos.
+
+Michael Vergara Troncoso   6:54
+No, todavía no me está cargando, le hice prototipo en constante desarrollo.
+
+Cristian Luke Cabello   6:59
+Okay.
+Ya mientras les voy a ir comentando así a grandes rasgos mientras se puede conectar a ustedes. Ya tenemos acá la casita la de toda la vida la de Hong Kong, donde empiezan a aparecer los iconos en la pantalla. Entonces aquí ya empezamos a pensar en documentación.
+Prácticamente estamos buscando los PNID, si pulso ahí no tengo registro de los PNID, entiendo que ustedes en su en su obra tienen 6, solamente 6 PNID.
+¿Cierto?
+¿Tienen más o menos esa documentación a mano, como poder seguirla de alguna forma?
+
+Michael Vergara Troncoso   7:30
+Correcto.
+
+Cristian Luke Cabello   7:37
+Les voy a compartir.
+
+Michael Vergara Troncoso   7:37
+Mira, Cristian, todavía no me carga la el portal de la aplicación, solamente me está cargando el don, como le comenté recién, el prototipo en constante desarrollo.
+
+Cristian Luke Cabello   7:39
+Y.
+Okay mientras les voy a compartir una carpeta por el mismo chat de la reunión que se llama archivos para demo está en el sharepoint y dentro de esa carpeta si la consultan van a encontrar algo como esto
+Van a encontrar algo como esto, que es la número uno. Tienen su diagrama de actual del proyecto en la carpeta número 2, ahí estarían sus 6.
+Y diagrama.
+Entonces, la idea que en este primer flujo, en este primer ejercicio, ustedes sean capaces de subirlos de una manera intuitiva, sin mucha instrucción por parte mía, para ver dónde ustedes van teniendo dificultades y dónde se van quedando trabados para poder después solucionar eso esos flujos.
+De una manera más fácil. Entonces vamos a probar el primer paso, que sería la carga de los penid. Como el sistema no conoce los penid, si yo entro al documento y busco, no tengo registro, tengo que buscar manera cómo cargar aquí la información como registro. Después yo le voy a contar dónde va a guardarse ese registro y después les voy a contar cómo subir.
+El PDF de cada uno de ellos.
+Ok, ese es como primer primerito de carga de datos.
+
+Michael Vergara Troncoso   9:11
+Yeah.
+
+Cristian Luke Cabello   9:12
+Enzo, entraste Michael, ¿quién le doy? Le doy el acceso. Ya voy a dejar de compartir para que compartan ustedes y vamos siguiendo el flujo con lo que converse.
+
+Michael Vergara Troncoso   9:14
+Y poder probar ahora.
+Ahora puede entrar ahora.
+Ya.
+
+Cristian Luke Cabello   9:26
+Compartenos tu pantalla, Michael.
+
+Michael Vergara Troncoso   9:29
+Hello compartir ahora.
+
+Cristian Luke Cabello   9:36
+I.
+
+Michael Vergara Troncoso   9:43
+No sé si se ve.
+
+Cristian Luke Cabello   9:47
+Ya bien, ahí te estoy viendo yo.
+
+Michael Vergara Troncoso   9:47
+Easy.
+
+Cristian Luke Cabello   9:54
+Excelente, mira ahora, como te comenté en la esquina superior derecha, está un botón de recargar. Ese es el que este siempre debe estar sincronizándose constantemente para ir a buscar la información de las nuevas planillas.
+Esa instrucción, cuando se lo cuando capaciten a los muchachos en terreno, tienen que indicarle en el teléfono o en el computador no deben cerrar la pantalla o la ventana hasta que el numerito que esté ahí se va a poner un número en rojo de los cambios que no han sido sincronizados. o K.
+Si ustedes cierran esta ventana y ahí tengo un número, lo más probable es que la foto o lo que sea que estoy registrando no se guarde.
+Ya Michael, vamos a crear el primer usuario que sería el Enzo antes de empezar con el flujo del PNID para que cerremos la parte de los usuarios.
+
+Michael Vergara Troncoso   10:48
+Hmm.
+
+Enzo Santambrogio Vega   10:52
+Cristian, te hago una consulta.
+
+Michael Vergara Troncoso   10:52
+Bien seguro.
+No, parece que no.
+
+Enzo Santambrogio Vega   11:09
+Cristian, no escuchaste.
+
+Cristian Luke Cabello   11:10
+Yeah.
+
+Michael Vergara Troncoso   11:10
+Canta.
+
+Cristian Luke Cabello   11:13
+Ya ahí está ahí en la tabla para crear nuevos usuarios. tiene.
+
+Enzo Santambrogio Vega   11:14
+Yeah, thank you.
+
+Michael Vergara Troncoso   11:16
+Cristian, elencho de ibas.
+
+Enzo Santambrogio Vega   11:17
+No.
+
+Cristian Luke Cabello   11:20
+¿Va a hacer una consulta?
+
+Michael Vergara Troncoso   11:22
+Sí, el Enzo.
+
+Cristian Luke Cabello   11:23
+Cuéntame eso.
+
+Enzo Santambrogio Vega   11:25
+Cristian consulta este proceso que estamos viendo nosotros que es para poder ingresar a las tares crear los usuarios y todo después esta capacitación tú se la vas a dar a por ejemplo la capacitación de cómo usar la aplicación a todos los que est conectado cierto
+
+Michael Vergara Troncoso   11:25
+De consulta.
+Good.
+Capacitación.
+
+Cristian Luke Cabello   11:41
+Es que en teoría Michael ya fue ya fue compañero mío de célula en Concón, entonces el Michael igual se maneja bastante con el tema de la aplicación y esto de agregar usuarios y eso es como básico de toda la app, ya que sería algo muy puntual que tendría que explicar yo quizás, pero sí, igual tengo que dedicarle tiempo.
+
+Enzo Santambrogio Vega   11:59
+No, my rec.
+Claro, no me refiero al uso para las personas que van a utilizar por primera vez esta aplicación, porque me imagino que el Michael lo usó, pero aquí después del Michael somos todos nuevos en la aplicación por decirlo.
+
+Michael Vergara Troncoso   12:02
+Work.
+
+Cristian Luke Cabello   12:11
+Exacto, sí, por eso estamos viendo qué tan intuitiva o qué tan difícil es.
+
+Enzo Santambrogio Vega   12:15
+Ay, amigo.
+
+Cristian Luke Cabello   12:15
+Pero no, o sea, yo por mi parte, yo tengo según mi jefatura, tengo 8020, o sea, el 20% se los puedo dedicar a ustedes de mi tiempo y el otro 80 tengo que dedicarlo a las tareas que tengo acá encomendadas.
+
+Enzo Santambrogio Vega   12:17
+¿Qué?
+
+Cristian Luke Cabello   12:29
+Estoy usando parte de mi 20 en este momento.
+
+Enzo Santambrogio Vega   12:33
+Ya es genial, más que nada lo digo porque va a llegar un momento de nosotros que este proyecto igual está agotado en los tiempos. Entonces lo ideal sería capacitar a la gente para el uso de la aplicación.
+
+Michael Vergara Troncoso   12:33
+Next.
+Adiós.
+
+Cristian Luke Cabello   12:45
+Save.
+Claro, no, sí.
+Hay que Hay que darle duro a eso porque sino después se pierde la idea y no se ejecutan las tareas en la aplicación y se quedan solamente las buenas intenciones.
+Hay que darle ahí a la capacitación.
+
+Enzo Santambrogio Vega   13:03
+Pues ya, genial.
+
+Cristian Luke Cabello   13:05
+Prueba ahí cargando un nuevo usuario.
+No te sigo, no sé si te has pegado o.
+
+Enzo Santambrogio Vega   13:22
+Dale 1 minuto que el Michael está hablando del teléfono que lo llamó el jefe y se conecta al tiempo.
+Bye.
+
+Cristian Luke Cabello   13:31
+Ya Enzo, mira mientras tú estás ahí como siguiendo la reunión, si te fijas en la tercera columna de rol.
+Se están nombrando otros tipos de usuarios. En el futuro se pues se podría agregar con acusé, gente de patios con logística, quizás algún supervisor, algún capataz o algún trabajador directo de terreno, vale.
+Ahí tendrían como el rol que asignarle cuando le den el acceso de acuerdo a las tareas que les quieran que quieran seguir con ellos.
+
+Enzo Santambrogio Vega   14:03
+Yeah, ahora sí.
+
+Michael Vergara Troncoso   14:03
+Y ahora sí.
+
+Cristian Luke Cabello   14:05
+Abajo del botón sincronizar entonces tenía el botón para agregar un nuevo usuario.
+
+Michael Vergara Troncoso   14:05
+YouTube.
+
+Cristian Luke Cabello   14:11
+Yeah.
+Es.
+
+Michael Vergara Troncoso   14:18
+I have.
+R.
+O.
+No.
+Sí.
+Y latina.
+Ya.
+
+Cristian Luke Cabello   14:48
+Elige su rol.
+¿En qué dispositivo va a usar la aplicación?
+Yeah.
+
+Michael Vergara Troncoso   14:55
+Empecé.
+
+Cristian Luke Cabello   14:57
+Y la misma cuenta que estás usando tú compartí abajo el email para seguir más o menos la cantidad de usuarios por cuenta.
+
+Michael Vergara Troncoso   15:04
+Yeah.
+
+Cristian Luke Cabello   15:04
+Después el más adelante le llenamos dale guardar.
+O K, en teoría, yo tendría acceso a través de esa cuenta.
+Ya Michael con eso quedaste listo para agregar más personas, vale, de la misma forma que agregaste, tú puedes eliminar.
+
+Michael Vergara Troncoso   15:18
+Vale.
+
+Cristian Luke Cabello   15:21
+Entonces, por ejemplo, si tú quisieras eliminar el usuario 5, tú lo pulsas, pulsas el usuario 5.
+Y te aparece ahí arriba un botoncito de no lo elimines, sí, pero te aparece el botón de eliminar.
+
+Michael Vergara Troncoso   15:36
+Yes.
+
+Cristian Luke Cabello   15:36
+Esa es la manera.
+Luego tenemos 1 segundo botón en el panel del lado izquierdo donde sale un engranaje y ahí ustedes deben configurar un par de cosas que ya están configuradas. En este momento pincha el registro.
+
+Michael Vergara Troncoso   15:39
+Joggy.
+
+Cristian Luke Cabello   15:54
+Allá en editar.
+Abajo del cuatro de sincronizar te pregunta cuándo inició tu obra a pp o inició el 15 de septiembre. Con eso nos va a dar la fecha de semana. Ustedes están viviendo la semana 24 más o menos. Te pregunta en tu obra tienes tratamientos térmicos para ocultar la lógica de tratamientos térmicos y te pregunta algo sobre isometría. Tu isometría se divide en sublíneas.
+Como nos pasó en Concón, no tu isometría es directa a la isometría que se nombró en el PNEVI, cierto.
+
+Michael Vergara Troncoso   16:24
+Sí.
+
+Cristian Luke Cabello   16:25
+Me confirmáis eso que no tiene subscripciones de línea.
+
+Michael Vergara Troncoso   16:26
+Sí.
+No.
+
+Cristian Luke Cabello   16:29
+Ya y ahí tú guardas.
+Entonces tenemos 3 configuraciones globales, están guardadas, creamos un primer usuario y vamos a la casita.
+Entonces la idea de este primer flujo es poder entrar a documento y cargar nuestro diagrama.
+Yeah.
+
+Michael Vergara Troncoso   16:51
+Estos se pueden cargar en forma masiva o puede tiene que ser de a uno.
+
+Cristian Luke Cabello   16:55
+Buena pregunta, cancela ese formulario.
+Cancela ese formulario.
+Ya si tú tienes una planilla donde tengas cargada toda tu información de los diagramas, tú puedes darle a ese botón que dice importar penID de un CSV. Para este ejemplo ya está creada esa planilla. Váyanse a la carpeta que les compartí de SharePoint y como número uno debe aparecer.
+
+Michael Vergara Troncoso   17:13
+But...
+
+Cristian Luke Cabello   17:22
+Sí, se ve de.
+Se la acabo de compartir la misma que estaba mirándolo.
+Nopedes.
+¿Entonces tenemos la posibilidad de cargar manual de a uno o tenemos la posibilidad de cargar todos los PDF? Si alguien ya se había dado la tarea, ingreso ahí al número uno.
+Ahí carga masiva.
+Hazle doble clic.
+Entonces lo que necesitamos saber en este momento son dos cosas nomás. Necesitamos saber el número y la descripción de cada uno de ellos. Entonces no tiene que ser un archivo estructurado ni bonito, sino que tiene que ser funcional para el caso. Entonces ya está guardado en formato CSV, si alguien lo hiciera en Excel.
+Debe ponerle archivo, mira, pincha archivo.
+Acá abajo del loguito de Excel, guardar como o crear una copia y ahí ustedes le dan.
+Exportar Michael, me equivoqué exportar. Si ustedes están trabajando en un Excel, deben exportar y ahí le aparece la segunda opción que es CCCSVUTF 8. Esa es la forma correcta de pasar un Excel a un CSV.
+Vale, cancela esa acción. Esa acción ya está generada ya en el documento. Entonces, alguien tiene que darse a la tarea de listar todos los pen ID y al lado escribir todas sus descripciones.
+
+Michael Vergara Troncoso   18:38
+Vale.
+
+Cristian Luke Cabello   18:48
+Y se genera este archivo, ahora ese archivo es el que le acepta la aplicación.
+
+Michael Vergara Troncoso   18:49
+O.
+Yeah.
+En este caso yo, por ejemplo, tengo los tengo separados de a uno. Si los quiero cargar de a uno, tengo que colocarle el número acá o puedo solamente cargar el archivo directo a cada uno.
+
+Cristian Luke Cabello   18:56
+Yeah.
+Ya mira, vamos a probar cargando el que tú tienes a mano, ahora me imagino que es el número uno.
+Tendrías que escribir todo el nombre del documento primero.
+
+Michael Vergara Troncoso   19:16
+Ya.
+un segundito
+
+Cristian Luke Cabello   19:36
+Okay.
+That's fine.
+That brother.
+That's it.
+Sí.
+So.
+
+Michael Vergara Troncoso   20:14
+Ya no es lo que.
+
+Cristian Luke Cabello   20:15
+¿Y ese cómo se llama? Ese es el simbología y nomenclatura de mecánica, cierto.
+
+Michael Vergara Troncoso   20:21
+Sí.
+
+Cristian Luke Cabello   20:22
+La descripción iría eso.
+
+Michael Vergara Troncoso   20:26
+El mismo.
+
+Cristian Luke Cabello   20:28
+Eso es importante porque en un proyecto que tengas muchos diagramas tú necesitas llegar rápido a un diagrama, no el ahí iría el título.
+El título del documento.
+Ahí tú podrías después hacer una consulta, no sé, hacia el expresador tal, y si tú tienes el dato por el nombre y te evitas buscarlo por el nombre del número del documento, que sería más complicado llegar ahí.
+
+Michael Vergara Troncoso   20:43
+Te.
+Ya comprendo.
+La diferencia es que están todos los.
+En todos en inglés, casi todos los documentos acá.
+Ya.
+
+Cristian Luke Cabello   21:12
+Yeah, okay.
+
+Michael Vergara Troncoso   21:12
+Cuestión.
+Cero.
+
+Cristian Luke Cabello   21:16
+I.
+No.
+Ese está liberado para construcción o k.
+
+Michael Vergara Troncoso   21:21
+Sleep.
+
+Cristian Luke Cabello   21:28
+Eso es importante, puedes arrastrar el documento hacia esa caja.
+O pulsarla y buscarlo con el explorador de archivo, ya dale guardar.
+
+Michael Vergara Troncoso   21:33
+Sí, seguro.
+Hmm.
+
+Cristian Luke Cabello   21:40
+si te fijas
+¿Te fijas, eso creó el primer registro, cierto?
+
+Michael Vergara Troncoso   21:46
+Sí.
+
+Cristian Luke Cabello   21:48
+Igual nos tomó un rato, o sea, no sé, un par de minutos.
+
+Michael Vergara Troncoso   21:51
+Sí, puede demorar, puede demorar menos. y.
+
+Cristian Luke Cabello   21:54
+Ya ahora vamos a eliminar este registro que fue manual y vamos a hacer la carga masiva.
+Pincha el registro como tal ahí y elimina.
+Yeah.
+Listo, ahora volvemos a cero de nuevo, no tenemos nada. Se está sincronizando arriba. Listo. Una vez que termine eso, hacemos el flujo de carga.
+Automatic.
+Vale, prueba el flujo como sería de carga.
+Entonces, si ustedes le dieron la tarea a un trabajador suyo y lo y le delegaron la tarea de los penidy lo sentaron, no sé, en la mañana le dan la tarea clara y le dicen, necesito en esta columna todos los nombres de los documentos.
+en esta otra columna todas las descripciones de la del documento podría ser una tarea de un par de horas depende la cantidad de documentos que tengan que que seguir Pero esa sería la base sólida para después no estar repitiendo el mismo número 500 veces en cualquier otro documento que lo necesiten porque ya va a estar el original
+Ingresado bien, entonces la tarea sería dársela a alguien que le haga la las 2 columnas, revisarlo, que los números correspondan, porque de ahí en adelante solamente se van a usar esos como referencia para cualquier protocolo o lo que sea.
+
+Michael Vergara Troncoso   23:20
+Yeah.
+
+Cristian Luke Cabello   23:21
+¿Descargaste el CSV o tenéis la carpeta para llegar?
+
+Michael Vergara Troncoso   23:25
+Claro.
+
+Cristian Luke Cabello   23:30
+Carlos.
+Ay, eso no besan nada, sí.
+Entonces.
+Yeah, I get.
+Vivo.
+¿O K, entonces te pregunta, quieres exportar este documento? Sí, 6 registro, me demoré 3 segundos o K dale.
+Está sincronizando, está guardando en SharePoint.
+Ok, y ahí tiene lo mismo que hicimos manual recién con uno, está hecho masivamente. Ahora tú puedes pulsar uno.
+Puede pulsar uno.
+Y del lado derecho te aparecen las revisiones asociadas.
+Me dice que no tiene ninguna revisión asociada aquí en este cuadro tú podrías agregarle el PDF a cada uno de ellos.
+El derecho abajo.
+
+Michael Vergara Troncoso   24:38
+I am.
+
+Cristian Luke Cabello   24:41
+Revisiones asociadas, no edites ahí eso y ahí tú le vas agregando la revisión. ¿Te llegó la nueva revisión para el documento uno? Sí, ¿cuál esa? ¿Cómo está el documento para construcción, una nueva, una nueva emisión o es un cambio? Ahí igual podría agregar un comentario personalizado que no sea ninguno de los 2. Tú puedes agregarlo.
+
+Michael Vergara Troncoso   24:58
+Hmm.
+
+Cristian Luke Cabello   25:02
+Es que algún ahí tú escribes y lo usas, pero por ahora la nueva emisión está bien.
+
+Michael Vergara Troncoso   25:05
+Ya.
+
+Cristian Luke Cabello   25:09
+Y ahí tú subes tu PDF.
+Ya esa misión de cargar PDF se está pensando acá que podría ser ya trabajo del control document, que sería el más indicado en este caso para manejar la documentación del proyecto.
+¿A ustedes les parece?
+
+Michael Vergara Troncoso   25:27
+Ya, sí, ahí está escuchando, Jorge.
+
+Cristian Luke Cabello   25:30
+Pero él maneja la información a este nivel.
+Sabe distinguir pena ID un isométrico.
+
+Michael Vergara Troncoso   25:34
+Sí, es que lo que pasa es que sí lo sabe. Sí, lo que pasa es que acá ahora también se va a trabajar con Aconnect. Por dar un ejemplo, todo lo que envía el cliente ahora se tiene que descargar a por vía Aconnect. Documentos va a subir y todo.
+
+Cristian Luke Cabello   25:43
+Okay.
+Yeah.
+Ok, o sea, una vía formal de obtener las documentaciones por Aconix.
+
+Michael Vergara Troncoso   25:54
+Sí.
+
+Cristian Luke Cabello   25:55
+Ya, pero esto esto sería entonces un adicional de una tarea adicional que va a tener él, que sería como alimentar la plataforma para que el que la necesite lo tenga en la mano.
+
+Michael Vergara Troncoso   26:05
+Claro, lo bueno hoy en día que son pocos documentos que se ocupan en Piper.
+
+Cristian Luke Cabello   26:10
+Claro, ya dale guardar, por ejemplo, ese registro.
+Ok, entonces ya sabemos que el registro uno de la documentación de simbología de tiene una revisión cargada y se ve en esta caja y se ve que la revisión es lásero.
+A lo que termine de cargar, va a actuar un bot por detrás del sistema y debería indicarle ahora esa revisión en el listado.
+Principal, ahí se debería alimentar del informe, ahí se alimentó, ven. Entonces lo sabemos que lo tenemos en cero y el PDF es tal. Si el control document llega a actualizarnos un PN ID, eso se va a actualizar de una vez y ahí estaría disponible ya en línea para su para su usuario.
+Carga el número 2 como a modo de ejemplo y nos vamos ya con el flujo.
+Hola Li.
+Mira, tenían líneas cargadas, quiero borrarlas para que no, para que lo cargue esto.
+Hey Cortana.
+El día a día.
+Estamos por el médico.
+Yeah, yeah.
+Al gasto el PDF del deldo.
+
+Michael Vergara Troncoso   27:46
+Si.
+
+Cristian Luke Cabello   27:48
+Yeah.
+Wonder you?
+Ya está actualizando, debería.
+Okay.
+Ya con eso cumplimos el primer, el la el primer icono que sería el documento diagrama. Entonces, en teoría cargamos todo su diagrama masivamente a partir de un de un Excel transformado a CCV o también lo pudieron haber hecho 1:1 en la misma plataforma, trabajando con el formulario, con el primer botón que hiciste que era agregar.
+Al ladito del botón de carga masiva, si pincháis en la casita y volvemos al menú principal.
+
+Michael Vergara Troncoso   28:20
+Two.
+
+Cristian Luke Cabello   28:25
+Ahora tenemos el apartado de piping.
+¿Y tú?
+
+Michael Vergara Troncoso   28:31
+Sí.
+
+Cristian Luke Cabello   28:31
+Ahí tú tienes ya adelantado algo con los con los materiales, un listado de.
+Eso fue tarea de la ubicación anterior que se hizo.
+Y el listado de líneas más abajo.
+
+Michael Vergara Troncoso   28:45
+Sí.
+Hay algunas ventanas que esa no me abre.
+O el internet.
+
+Cristian Luke Cabello   28:59
+Hmm.
+No puedes pinchar el listado de.
+
+Michael Vergara Troncoso   29:08
+Sí, que sí, que ha arreglado un lado al rato.
+
+Cristian Luke Cabello   29:13
+Yeah.
+¿Qué ha revisado?
+
+Michael Vergara Troncoso   29:23
+No me abre la carpeta listado de materiales.
+
+Cristian Luke Cabello   29:27
+Ya o K, a mí tampoco es un tema de que no están en la sala visto, pero el flujo de hoy es en línea isométrico, ojalá llegara a la uniones.
+Sigamos avanzando en el listado de líneas si lo pulsamos.
+
+Michael Vergara Troncoso   29:48
+Me.
+
+Cristian Luke Cabello   29:51
+Ok, entonces el sistema ahora algo parecido a lo que hicimos con lo.
+Con los diagramas, el sistema no conoce nuestras líneas. Podemos ir 1 1 ingresándola en el botón azul o podemos hacer el trabajo en Excel y ingresárselas masivamente en el CSV de las líneas. Es lo mismo, salimos, buscamos ahora líneas.
+
+Michael Vergara Troncoso   29:59
+Sí.
+
+Cristian Luke Cabello   30:15
+Carga masiva, ábrelo para que lo estudiemos un poquito. Ahí tenemos 2, el de la lista de línea.
+Lead the Deline.
+E.
+Ya si miramos el lista de línea, generalmente nosotros podemos extraer del modelo o de alguna fuente confiable el primer, la primera columna, que serían todas las líneas de nuestro proyecto. En este caso, el estamos usando el diámetro con el símbolo de pulgada al lado.
+Y en la isometría no lo usan así, pero lo estoy dejando así en este caso porque está asociado a la extracción de los datos de la maqueta. Entonces, si ustedes copian de acá y buscan de la maqueta, el símbolo de pulgada va a estar en la maqueta. Esto es a modo de ejemplo para esta sesión de flujo, si ustedes decidieran llevarlo de otra forma.
+
+Michael Vergara Troncoso   31:02
+Sí.
+Skip.
+
+Cristian Luke Cabello   31:13
+Lo pueden llevar de otra forma, al lado necesitamos el diámetro sin la pulgada y después el piping class.
+Opcionalmente, pueden indicar dónde nace y dónde muere la línea, a modo de darle más datos a la planilla como primera carga, pero si no son los primeros 3 columnas, son las esenciales para partir.
+
+Michael Vergara Troncoso   31:33
+De hecho, tenemos que cargar varias cositas referente porque el listado en línea nos pide un formato el cliente acá, que es el listado en línea, listado de soporte y listado de válvulas.
+
+Cristian Luke Cabello   31:42
+Ya.
+Ok, esa estructura de datos es importante que la compartan lo más pronto para poder agregar todas las columnas a la lógica de la aplicación.
+
+Michael Vergara Troncoso   31:53
+See the key.
+
+Cristian Luke Cabello   31:53
+Por ahora, como para partir con el flujo, esto es lo esencial, al menos las 3 primeras columnas, ok.
+
+Michael Vergara Troncoso   32:00
+Comprendo.
+
+Cristian Luke Cabello   32:01
+Ya mira lo mismo en el ejercicio sería generamos un Excel con estas primeras 3 columnas con los encabezados fijos no podemos cambiar el nombre a los encabezados y después la información a partir del proyecto hacia abajo. Entiendo que esta pequita la hicimos en diciembre Michael tú la revisaste y más o menos estaba de acuerdo a la realidad salieron un par de consultas.
+
+Michael Vergara Troncoso   32:17
+Sí.
+
+Cristian Luke Cabello   32:21
+Para ingenieria, de acuerdo a esa respuesta, tú las podrías actualizar. Era un par de fluido y un y un uno que faltaba por ahí en una línea, ¿te acuerdas?
+
+Michael Vergara Troncoso   32:32
+Sí.
+
+Cristian Luke Cabello   32:33
+Ya y lo exportas y lo subes, súbelo como está el CSV, guárdalo y lo exportas a la aplicación.
+Esa respuesta de ingenieria ya te están llegando ya.
+
+Michael Vergara Troncoso   32:49
+¿Y alguna?
+
+Cristian Luke Cabello   32:52
+Ya si ustedes quisieran darle espacio también a esa a esa SDI, sería bueno también crearle una vista asociada a cada línea de la consulta.
+What?
+
+Michael Vergara Troncoso   33:03
+Yeah.
+
+Cristian Luke Cabello   33:08
+Eso.
+Ya la idea es que ya comprendieron más o menos la lógica de carga. Siempre abajo del botón de sincronizar va a estar el botón de del icono del documento con la flecha. Ese documento, esa carga no puede ser a través del teléfono. Desconozco si del tablet, pero del teléfono no puede ser. Solamente está habilitada para vista de escritorio.
+
+Michael Vergara Troncoso   33:30
+Entiendo.
+
+Cristian Luke Cabello   33:30
+Ya y con eso tú tienes ahora tu listado de líneas.
+Okay.
+
+Michael Vergara Troncoso   33:37
+Sí.
+
+Cristian Luke Cabello   33:39
+Ya si nos fijamos.
+Si nos fijamos en el diagrama.
+Numero 6.
+Vuelve a diagrama número 6.
+And that one of the seats.
+Como estamos con Laura, nos queda media, si nos fijamos en el 6.
+Ya hay el ejercicio de cargarle el de cargar el PDF ahí ahora que tenemos la asociación de líneas.
+Bueno, tenemos con el sistema conoce la línea, le vamos a cargar el PDF a la línea.
+Avísame cuando esté listo Michael.
+
+Michael Vergara Troncoso   34:48
+Sí, está cargando.
+
+Cristian Luke Cabello   34:50
+Yeah.
+Done.
+You.
+No.
+
+Michael Vergara Troncoso   35:14
+Encargo.
+
+Cristian Luke Cabello   35:15
+Ya.
+Ya.
+
+Michael Vergara Troncoso   35:18
+What?
+
+Cristian Luke Cabello   35:19
+Mira si ustedes se fijan actualmente arriba del cuadro de revisiones asociadas le está apareciendo algo que no debiese aparecerle porque todavía no lo hemos hecho pero dice líneas asociadas a este pen Ahora le limpié la tabla y lo único que hemos hecho hasta el momento es cargar por un lado los diagramas
+Y cargar por otro lado lo las líneas y todavía no hemos hecho esta conexión que no aparece acá, entonces recarga la aplicación arriba en el sincronizar.
+Y eso se debería ir.
+Se fijan?
+
+Michael Vergara Troncoso   36:04
+Sí.
+
+Cristian Luke Cabello   36:05
+Ya entonces hasta ahora cargamos la lista de PNID, cargamos la lista de líneas, pero entre las 2 no se conocen, no se comunican. Entonces, ¿qué tendríamos que hacer ahora? Tendríamos que crear una relación entre ellas. Nos vamos a ir a la vista de líneas, la casita, las líneas.
+En líneas.
+A casito.
+Y aquí deberíamos crear la relación.
+Pero no estoy viendo el botón, ya les voy a pasar otro link.
+¿Donde donde ustedes van a poder ver la estructura de carpetas mientras cómo se va a ir guardando esta información que ustedes están creando en el en la aplicación? ¿Pero cómo se va a ir viendo en base a tablas? Váyanse al chat y vean este esta carpeta.
+
+Michael Vergara Troncoso   36:50
+Luis.
+
+Cristian Luke Cabello   36:58
+El Michael tiene acceso porque ella pertenece a la célula. El Enzo para él podría hacer una carpeta de solo lectura.
+Si se fijan, hay unas carpetas que están divididas en cada dog, list, log, rel. Nosotros hemos interactuado hasta ahora solamente en las carpetas list, que son las listas de cosas. Si ustedes ingresan ahí.
+Revísenla, están trabajando en List 5ping.
+Mientras voy a tratar de ver que nos sucedió con el.
+I see.
+Sure.
+What?
+Ajá.
+¿Ya Michael, entraste? ¿Estás por ahí?
+
+Michael Vergara Troncoso   37:51
+He?
+Sí.
+
+Cristian Luke Cabello   37:57
+Ya entonces ya solamente verifica la list pen ID y list línea, que son las que hemos interactuado en esta o k si ustedes se fijan, lo que hemos hecho en la aplicación no ha generado esta tablita. Entonces trajimos la primera columna, la A, trajimos la columna B y estas columnas Cd.
+IE fueron ejecutadas con la carga del PDF.
+O K, entonces trabajar en la aplicación es obtener una tabla ordenada por parte de Sharpoint. Entonces, después de estas tablas ordenadas se van a empezar a comunicar entre ellas. Entonces esto es lo que tenemos que conversar ahora y tratar de estandarizar su necesidad en cuanto a columna y en cuanto a lo que estamos ofreciendo. Nosotros, como tú me decías ahí delante, oye, yo tengo que.
+A pegarme a lo que me pide mi cliente, pero después no va a ser el único cliente que vamos a tener, así que vamos a tener que cubrir todas las posibilidades y las podemos ir apagando quizás en la configuración global. Como hicimos al principio, este proyecto no tiene tratamiento térmico, OK.
+
+Michael Vergara Troncoso   38:59
+State.
+
+Cristian Luke Cabello   39:00
+Ya volvamos ahora al ahora trabajamos en líneas y trabajamos en PNID. Si te vuelve a la carpeta de chartpoint, hay una que se llama Rel, que habla de las relaciones entre ellas.
+Anda mira la ya.
+Entre las relaciones de viping.
+Ya ahí, si ustedes se fijan, tenía datos, los quité cuando lo vimos en la aplicación. Ahora esta es la que tenemos que llenar. Entonces, en teoría tenemos 2 caminos, hacemos lo mismo, carga masiva una vez que tengamos esta tabla poblada y exportada en CCV, entonces sería tarea de un de una persona ya más del área Python.
+Tomar diagrama por diagrama y determinar en mi diagrama 001 tengo línea, no porque es informativo. En mi diagrama 002 tengo línea, sí, y empezar a identificar diagrama, línea, diagrama, línea. Si lo hacemos aquí, vamos a empezar a cometer errores de tipeo.
+Cierto.
+Vamos a hacerlo en la aplicación y vamos a ver cómo interactuamos.
+Actualiza.
+Actualiza ahí.
+
+Michael Vergara Troncoso   40:28
+I expolizo.
+
+Cristian Luke Cabello   40:35
+Definan que aparece un nuevo botón.
+Michael.
+
+Michael Vergara Troncoso   40:40
+Sí.
+
+Cristian Luke Cabello   40:41
+Ya pincha un segundo.
+Ya, si ustedes lo leen arriba, ahí me dice que estoy dentro del menú de la semana 24 de mi proyecto, entré a un submenú, entré a líneas y ahora estoy en un apartado que se llama relacionar diagrama con la línea, cierto.
+
+Michael Vergara Troncoso   40:58
+Sí.
+
+Cristian Luke Cabello   40:59
+Nuevamente tengo 2 botones azul, tengo un botón azul, tengo un botón de carga masiva. Si yo pinchara el botón azul, si yo le doy la tarea a un trabajador que lo haga manualmente por primera vez, él se va a enfrentar a esas 2, a esas 2 valores y ya él no tiene como equivocarse porque el PNID está escrito, entonces toma el uno.
+Pero en el uno no tengo isometría, no tengo línea porque el uno recuerda que era informativo. Entonces tomo el diagrama número 2 y empiezo a identificar mis líneas.
+Si viene una tarea monótona, es una tarea que se va a hacer solo una vez.
+Por ejemplo, hoy tenemos una línea Michael la 0013, tú podrías escribir 0013 y nada más.
+
+Michael Vergara Troncoso   41:42
+Consulto Cristian, si yo aquí coloco, busco la línea ya en este caso la 0013.
+
+Cristian Luke Cabello   41:45
+Oh.
+Correcto.
+
+Michael Vergara Troncoso   41:52
+Le agrego.
+
+Cristian Luke Cabello   41:53
+Sí.
+
+Michael Vergara Troncoso   41:54
+Coloco guardar, cierto.
+
+Cristian Luke Cabello   41:56
+Tú le estás enseñando a la aplicación que en el diagrama número 2 vive la línea 0013.
+
+Michael Vergara Troncoso   42:02
+¿Correcto, ahora yo vengo a agregar otra línea más, cierto?
+
+Cristian Luke Cabello   42:03
+Entiende.
+Yep, please.
+
+Michael Vergara Troncoso   42:08
+Hago en la misma vuelta.
+
+Cristian Luke Cabello   42:11
+Ajá.
+
+Michael Vergara Troncoso   42:11
+Y coloco 0013 me vuelve a aparecer, voy a ser la idea que ya no aparezca.
+
+Cristian Luke Cabello   42:18
+Claro que sí, es una muy buena idea, un validador que no me permita guardar otro registro hacia la misma línea.
+
+Michael Vergara Troncoso   42:24
+Sí, en alguna ocasión van a haber líneas que estén en 2 diagramas.
+
+Cristian Luke Cabello   42:31
+Por ejemplo, esta línea sí también pertenece al 3, mira, coloca arriba número 3.
+
+Michael Vergara Troncoso   42:34
+El 3 pertenece al 3.
+Sí, este meter está el triple también.
+
+Cristian Luke Cabello   42:37
+Esta línea de por sí estaba los 2 por eso que fue el ejemplo.
+
+Michael Vergara Troncoso   42:40
+Sí, este pertenece al 3 cambios.
+
+Cristian Luke Cabello   42:41
+Sí, eso sí, debe ser válido, sí, guardar ahí.
+
+Michael Vergara Troncoso   42:44
+Sí.
+
+Cristian Luke Cabello   42:45
+Guarda, eso sí es válido que una línea esté en 2 diagramas, pero lo que me de que una línea esté 2 veces en el mismo es un registro equivocado.
+
+Michael Vergara Troncoso   42:49
+Sí.
+Claro, eso sería eso, ver esa opción de quitarle que en el mismo diagrama poder ingresar 2 veces en la misma línea.
+
+Cristian Luke Cabello   42:54
+Está bien ahí.
+Correcto, ahora quiero que te vayas al SharePoint, al y quiero que veas el resultado de lo que hicimos. No está arriba, búscalo arribita, lo tenía abierto.
+Entonces trabajamos en una en 2 registros, llegó uno.
+Está guardando el otro. ¿A qué? ¿A qué vamos? A que ya estamos quitando, estamos quitando la interacción de estar tipeando.
+
+Michael Vergara Troncoso   43:27
+Italodo.
+
+Cristian Luke Cabello   43:27
+Ahí llegó el segundo registro. Si te fijas, el primer dato no nos interesa porque es un ID de control de la aplicación, pero el segundo y el tercer dato son valores que son 100% fidedignos a lo que se cargó por primera vez. A lo que yo les comenté al principio, la primera carga de los diagramas y de las líneas tiene que ser.
+
+Michael Vergara Troncoso   43:35
+Sí.
+
+Cristian Luke Cabello   43:46
+super bien revisada para que después cuando la información se siga ocupando sea 100% fidedigna entonces escribimos bien la primera vez el diagrama número 2 si escribimos bien la línea si la ocupamos dos veces con la misma sin coma sin guiones con con las pulgadas tal cual Entonces tenemos dos 2 caminos
+Cargamos masivamente si estamos con la información 100% segura o trabajamos en la carga 1:1, elimínate estos 2 registros y carga masivamente el que te prepare para el ejemplo.
+Elimina sus registros.
+Actualiza y carga el CSV de ejemplo.
+Anda a los archivos de demo, la carpeta que les pase primero descarga del CSV.
+La otra carpeta Michael carga, creo que es la que está al lado de ambiente de pestañas. Eso ahora descárgate en red.
+En teoría, ahí está, está el trabajo hecho, lo que conversábamos en vez de hacerlo 1:1, ese ejercicio ya se hizo en diciembre.
+Right.
+Lo mismo, 9 kg, no pesa nada, sube rápido.
+122 Regiscle.
+Ok, entonces, entendiendo esto, cargamos 2 listas y cargamos una relación entre las 2 listas. Ok, ahora con esto nos devolvemos al apartado de pen ID y empezamos a ver la magia.
+Vamos apartado en ID y empezamos a ver qué ocurrió allá. Yo te pedí que cargara el número 6. Vamos a revisar algo en el número 6.
+No era documento pen ID.
+Ya si yo me voy a línea asociada por la carga masiva, me dice, oye, en el PNIB número 6 tú tienes 2 líneas.
+Van y abren el PDF o lo identifican físicamente.
+Tienen esa bolilla.
+Michael hay pinchado el abrir el PDF.
+
+Michael Vergara Troncoso   45:56
+Cantar.
+Cristian.
+
+Cristian Luke Cabello   46:06
+Hey.
+
+Michael Vergara Troncoso   46:08
+Cargar la isometría me dices.
+
+Cristian Luke Cabello   46:10
+No el PDF asociado al diagrama número 6.
+
+Michael Vergara Troncoso   46:14
+Necesito cargo.
+
+Cristian Luke Cabello   46:15
+Ya ábrelo.
+Esta fue una de las consultas de ingenieria que a lo mejor lanzamos en diciembre.
+¿Ya cómo se llama esa línea en el diagrama?
+
+Michael Vergara Troncoso   46:27
+Cero 22.
+
+Cristian Luke Cabello   46:28
+¿Cómo se llama la línea madre que está más arriba en el diagrama?
+
+Michael Vergara Troncoso   46:33
+0121.
+
+Cristian Luke Cabello   46:35
+¿Cómo te indica el la Luke app, la línea?
+¿Y los nombres, qué diferencia tienes tú ahí en los nombres?
+¿Cachai que tuvimos un error de tipeo en el diagrama con respecto a las 12:2?
+
+Michael Vergara Troncoso   46:54
+Sí, se hizo una consulta y por parte de ingenieria dijeron que cargaron, como decía el diagrama.
+
+Cristian Luke Cabello   46:59
+Cero 22.
+
+Michael Vergara Troncoso   47:00
+Sí, sí.
+
+Cristian Luke Cabello   47:02
+Ya ven, ahí tenemos un error, pero si tú te vas después al modelo y la gente que trabaje con el modelo le van a hablar de 122 a ustedes en la reportabilidad, entonces ahí tienen que estar pendiente.
+
+Michael Vergara Troncoso   47:08
+You do?
+Correcto.
+
+Cristian Luke Cabello   47:16
+¿Ustedes se van a pegar a lo que dice el diagrama, pero la gente en terreno, quizás cuando vayan a montar o a trabajar en esa línea, quizás les hable de 1220122, vale?
+
+Michael Vergara Troncoso   47:26
+Vale.
+
+Cristian Luke Cabello   47:27
+Ahí tienen que tomar el resguardo, cargarla nuevamente, crear la línea o hacer la nota, no sé.
+
+Michael Vergara Troncoso   47:33
+Así tenemos que hacerle la corrección a ellos, que es cero 122, no cero.
+
+Cristian Luke Cabello   47:38
+Por eso, pero ya independiente, más o menos para que entiendan cómo cargamos los datos, de dónde salió la información de las líneas, se se cargó masivamente a partir de las líneas del modelo del 3D. Entonces de allá venía y ahí teníamos una incongruencia modelo versus PN ID. Obviamente nosotros buscamos cuatro dígitos y si buscamos el cuarto es un uno, pero si ellos dicen apégate al PN ID, no apegamos al PN ID.
+
+Michael Vergara Troncoso   47:39
+Te quiero.
+
+Cristian Luke Cabello   48:03
+¿Ya Michael, hasta ahora qué complicación tuve en lo que hicimos?
+
+Michael Vergara Troncoso   48:03
+Sí.
+Nada, es más interiorizarse, no más con la aplicación para que sea más accesible para el para los demás que después ten como administrador.
+
+Cristian Luke Cabello   48:10
+No.
+Ya nos quedan como 10 minutitos. ¿Queréis seguir avanzando en el flujo de carga?
+Estoy complicado con el tiempo.
+
+Michael Vergara Troncoso   48:25
+Yeah.
+Podríamos hacer el último, poner un ejemplo de un isométrico.
+
+Cristian Luke Cabello   48:31
+Después de la línea, entonces naturalmente queremos avanzar hacia los isométricos.
+
+Michael Vergara Troncoso   48:35
+****.
+
+Cristian Luke Cabello   48:36
+¿Ya según según la convención de los cubicadores en Chile, un isométrico para ti, qué es lo que es?
+
+Michael Vergara Troncoso   48:46
+Una lámina de una línea.
+
+Cristian Luke Cabello   48:47
+Una lámina.
+Una lámina de una línea.
+
+Michael Vergara Troncoso   48:52
+Sí.
+
+Cristian Luke Cabello   48:53
+Cierto, ya entonces, como acá tenemos muchos criterios porque hay cubicadores que entienden que un isométrico puede tener cuatro o 5 hojas, que puede tener una unión 400500. Hemos visto por ahí, tenemos que se apegarnos a lo que Echeverría nos quiere alinear ahora y al Echeverría nos quiere alinear, que un isométrico es una hoja.
+Esa vista no sé si te acomoda, pero es lo que nos vamos a alinear.
+
+Michael Vergara Troncoso   49:13
+¿Qué?
+
+Cristian Luke Cabello   49:19
+Acomoda a ti como con tu experiencia en las ubicaciones de que sea una.
+
+Michael Vergara Troncoso   49:19
+Sí.
+Sí, un histórico, una línea y a mi experiencia siempre ha sido así.
+
+Cristian Luke Cabello   49:28
+Ok, ya vamos a probar el flujo aquí con el con respecto al isométrico. Ya vemos que no tenemos el botón de carga masiva, ¿cierto? Si ustedes lo necesitaran, me pueden decir Luke, ya tengo preparado mi Excel de carga masiva, quiero cargarlo todo de una vez o quiero probar el flujo en la aplicación. Probemos el flujo de a uno.
+
+Michael Vergara Troncoso   49:29
+Una lámina.
+Sí.
+
+Cristian Luke Cabello   49:51
+Entonces la aplicación conoce diagrama, conoce de líneas y ahora queremos que conozca de isométrico. Tenemos una línea que está espuliada por que está dibujada por JRI, que es la 005. Yo te recomiendo que le hagamos una prueba con esa y después vemos otra si quieres al azar.
+
+Michael Vergara Troncoso   50:09
+Thank you.
+
+Cristian Luke Cabello   50:09
+Ya entonces, si buscamos una línea de 005 de concentrado, la primera pregunta que me hace es a qué número de hoja yo me quiero referir.
+
+Michael Vergara Troncoso   50:21
+Claro.
+
+Cristian Luke Cabello   50:22
+Yeah.
+
+Michael Vergara Troncoso   50:30
+No, estoy buscando.
+
+Cristian Luke Cabello   50:32
+En SharePoint, en documentos de demo, desde esa isometría.
+Abre la que no entregó el cliente.
+
+Michael Vergara Troncoso   50:38
+Yeah.
+
+Cristian Luke Cabello   50:42
+Arriba, Michael, en la célula te dejé la carpeta de eso.
+Salte de ahí isométrico.
+
+Michael Vergara Troncoso   50:50
+Pablo.
+
+Cristian Luke Cabello   50:51
+Esa es la que les preparé el ejemplo.
+Si tú te fijas, el cliente no entregó un gran PDF, el cual él tiene un nombre para el documento, pero no hace relación al 005 y ahí está dividido en 3 hojas, ¿cierto?
+
+Michael Vergara Troncoso   51:05
+No.
+Claro, que es un código poderco ocupa en ello.
+
+Cristian Luke Cabello   51:10
+O K, tenemos que adaptarnos entonces a todos los nombres de los documentos, si es que no son tan descriptivos en el PDF.
+Vuelve atrás una carpeta y abre el que no entregó el cliente.
+Abre eso.
+¿Ya en teoría, esto para ti sería la línea y cada una de estas hojas sería un isométrico, cierto?
+
+Michael Vergara Troncoso   51:34
+Correcto, sí.
+
+Cristian Luke Cabello   51:36
+Ya con esa definición clara, tenemos que entender ahora que debemos dividirla, hacer que cada uno de estos sea una entidad y que la aplicación lo conozca.
+Cierto, ya la pega de dividir la que ya se hizo. Entonces tendrían que instruir ahí al amigo de control document o alguien de oficina técnica que pudiese llevar este mismo esta misma visión y explicarle la visión de que cada una de estas hojas va a ser un isométrico.
+
+Michael Vergara Troncoso   51:48
+Sí.
+Ya está intruido.
+
+Cristian Luke Cabello   52:05
+Ya está intruido, ok, como ya te diste cuenta en la carpeta de más adentro está dividido. Vamos a hacer la prueba de la hoja uno, tratemos de que.
+
+Michael Vergara Troncoso   52:06
+No.
+
+Enzo Santambrogio Vega   52:08
+Cristian, Cristian, Cristian.
+Real.
+
+Michael Vergara Troncoso   52:13
+Cristian, eso quiere hacer una consulta.
+
+Cristian Luke Cabello   52:15
+Dime.
+
+Michael Vergara Troncoso   52:17
+Oh, perdón.
+
+Enzo Santambrogio Vega   52:17
+No, perdón por interrumpirte, pero no levanté la manera. Oye, Cristian, más que instruir nosotros a las personas, no podemos buscar una forma como de hacerlo más familiar. En realidad, porque yo entiendo que existe esa complicación entre isométrico y línea y su línea, pero no todos manejan esa información.
+
+Michael Vergara Troncoso   52:20
+Y quisiera.
+B.
+Sí.
+Eight.
+O.
+
+Cristian Luke Cabello   52:38
+Sí.
+
+Enzo Santambrogio Vega   52:38
+O la interpretan de diferente manera. Yo, por ejemplo, me puedo adecuar a cualquier a las de las 2:00 informaciones, pero generalmente tal vez lo podemos hacer por línea y láminas o línea y hojas que es más fácil.
+
+Michael Vergara Troncoso   52:38
+O.
+
+Cristian Luke Cabello   52:41
+Correcto.
+
+Michael Vergara Troncoso   52:41
+You, por ejemplo.
+O de guarda.
+De.
+Viviendo.
+Yes.
+
+Cristian Luke Cabello   52:53
+Ya es que eso van a ser desde acá como un instructivo. Los chiquillos están preparando unos vídeos y una información que Echeverría va a formalizar. El hecho de trabajar con la línea en varias hojas trae más problemas que soluciones a la larga.
+
+Enzo Santambrogio Vega   53:05
+Sí, varias ropas.
+
+Michael Vergara Troncoso   53:07
+YouTube.
+
+Cristian Luke Cabello   53:12
+Porque a la hora de hacer las cosas en lo práctico, si yo después tengo que agregar una unión en la hoja uno, yo no sé qué pasó en la historia de la otra hoja.
+
+Enzo Santambrogio Vega   53:20
+Claro, sí, yo me refiero porque más que nada isométrico no se refiere, como se refiere como a la línea como tal. Yo lo veo como hoja, pero isométrico puede ser cualquier dibujo dibujado en 30°, cachai, entonces.
+
+Michael Vergara Troncoso   53:20
+Declaro, sí.
+Yep.
+****.
+
+Cristian Luke Cabello   53:33
+Correct them.
+
+Enzo Santambrogio Vega   53:33
+La gente lo interpreta como que isométrico es un plano, pero no es un isométrico, no es un plano como tal, escuchate, no, pero la hizo claro, la tubería, el pipe en se dibuja como isometría en 30° para que sea una visual o sea como la mejor manera o ver la mejor cantidad de detalles de que tiene el dibujo.
+
+Cristian Luke Cabello   53:39
+Bum.
+
+Michael Vergara Troncoso   53:44
+E.
+
+Cristian Luke Cabello   53:44
+De forma isométrica, sí.
+
+Michael Vergara Troncoso   53:46
+Yeah.
+
+Enzo Santambrogio Vega   53:55
+Esteban.
+
+Cristian Luke Cabello   53:56
+Sí, te entiendo, pero acá la decisión se se consultó y yo entiendo que va a chocar a varios cubicadores y varias personas que han llevado ante el piping de otra forma, pero eso fue lo oficial que se que se llevó, que vamos a tener que trabajar como una entidad isométrico cada hoja.
+y línea la línea como tal Y si la línea viene subdividida como nos tocó en concón ae prsl o como quieran Llamar las subdivisiones sub línea entonces línea es lo que une un equipo con otro un estanque con una bomba línea como está indicado en el en el diagrama una línea después el dibujo que nos llega a nosotros como isometría dividido en varias páginas
+Si tiene diferente nombre, sublineal, si tiene el mismo nombre para toda la línea, va a ser una línea dividida en hoja y cada hoja va a ser un isométrico.
+Eso se va a formalizar con instructivo, con video, con algún papel, con algo, pero lo están preparando los muchachos.
+
+Enzo Santambrogio Vega   54:55
+Ya, sí, no comprendo.
+
+Michael Vergara Troncoso   54:55
+Yes.
+
+Cristian Luke Cabello   54:58
+Ya entonces se divide la información del cliente, se entiende que ellos nos entregan el documento con un nombre y nosotros tenemos que traducirlo ahora a un idioma de construcción.
+Trato de descargar o ver manera de poder usar en la lámina número uno, la hoja número uno Michael.
+
+Michael Vergara Troncoso   55:17
+Descargarla solamente la hoja uno.
+
+Cristian Luke Cabello   55:20
+Sí del checkpoint, ver como ahí mismo descargar la hoja uno, la flechita ahí descargar.
+
+Michael Vergara Troncoso   55:27
+No está, no está donde está.
+
+Cristian Luke Cabello   55:28
+Al lado de la estrella.
+Izquierda superior.
+
+Michael Vergara Troncoso   55:34
+Peter.
+
+Cristian Luke Cabello   55:35
+Eso es ya.
+
+Michael Vergara Troncoso   55:41
+Aquí se te descargan las 3 hojas.
+
+Cristian Luke Cabello   55:43
+Disculpa, disculpa, entra la que tiene solamente la hoja aún.
+
+Michael Vergara Troncoso   55:49
+No segunded.
+Ver el tema.
+
+Cristian Luke Cabello   55:58
+Eso.
+
+Michael Vergara Troncoso   56:03
+Ya.
+
+Cristian Luke Cabello   56:05
+Ya entonces del documento que nos entregó el cliente.
+¿Se hizo la separación por hojas, cierto?
+
+Michael Vergara Troncoso   56:13
+Hey.
+
+Cristian Luke Cabello   56:13
+Y descargamos la hoja número uno y ahora tenemos que hacer que la aplicación la conozca como una entidad.
+Entonces viene de la línea cero 5 que nació de un diagrama y extrajimos la hoja número uno de un total de 3 colócale ahí el formulario.
+
+Michael Vergara Troncoso   56:33
+Ahí en el le colocamos uno de 3 o escrito.
+
+Cristian Luke Cabello   56:38
+No abajo te da la posibilidad del 3 mira si te fijáis te pregunta totales de hojas.
+
+Michael Vergara Troncoso   56:41
+Yeah.
+
+Cristian Luke Cabello   56:42
+Solo la hoja tuya y ya si tú te fijas a la serie esa acción, arriba nace el isométrico y dice, oye, me estoy llamando cero 5, hoja uno.
+Okey.
+
+Michael Vergara Troncoso   56:54
+Sí.
+
+Cristian Luke Cabello   56:55
+Ese ya sería el PDF que tú separaste. Ahora ahí tú tendrías que pegar el número de Codelco. Busca manera de copiar el número largo de Codelco, el que venía escrito en el PDF y pégalo ahí.
+Trata de putear lo del mismo PDF.
+
+Michael Vergara Troncoso   57:15
+Sí, eso estoy haciendo.
+
+Cristian Luke Cabello   57:19
+Esta va a ser una de las partes más complicadas para lograr procesar y entender porque, como decía el Enzo, uno viene de otra obra, uno viene de otra empresa y tenemos que tratar de unificar ahora los criterios.
+Ya quítale el parte uno, solamente déjalo hasta el.
+Okey, ahora busca el documento del contratista, que otra información que viene en la en el mismo cajita del.
+Información.
+Abre el PDF.
+Ya no, ese no es Michael, ese es como el número de contrato.
+
+Michael Vergara Troncoso   58:08
+Espérate, sí.
+
+Cristian Luke Cabello   58:13
+Abre el pdfy busca abajo donde está la revisión del documento.
+Ese era correcto ya y este dato lo tenemos en la línea también. Si se fijan, después del fluido tenemos el dato del diámetro principal de la tubería. En alguna ingenieria no lo muestra ahora en esta si lo está mostrando y lo y por qué lo pedimos así en una lista seleccionable para que no vamos a entrar con que yo le escribo con un punto o que le puse cero 6 o que le puse la comilla de pulgada.
+Entonces estandarizamos que diámetro mayor 6 así se va a escribir.
+
+Michael Vergara Troncoso   58:44
+Claro.
+Ella.
+
+Cristian Luke Cabello   58:48
+También se va a empezar a implementar el tema de los CWP y en algún momento vamos a tener que interactuar con eso. Por ahora solamente tengo información del 3351. Creo que estoy equivocado, no sé, lo tomé así como a la rápida, no sé si hay más áreas, no me he metido más allá con respecto a lo del CWP.
+
+Michael Vergara Troncoso   58:56
+But...
+Oh, today.
+But him.
+Y.
+
+Cristian Luke Cabello   59:13
+Pero no después resolvemos eso del C.
+
+Michael Vergara Troncoso   59:15
+Yeah.
+
+Cristian Luke Cabello   59:17
+Ya eso sería la información que estamos capturando de la hoja uno, cierto. Después tú le das siguiente y te va a preguntar sobre el espuleo de la hoja uno. Dale siguiente, tú tienes espuleo de la hoja uno actualmente.
+
+Michael Vergara Troncoso   59:21
+Sí.
+
+Cristian Luke Cabello   59:29
+O sea, en la hoja uno de la cero 5.
+
+Michael Vergara Troncoso   59:30
+Sí, a mano me lo pongo todavía eso, pero sí tan neta, eso es.
+
+Cristian Luke Cabello   59:35
+Ya pensemos que no está hecho, pensemos que nadie ha puleado la hoja uno puede dejar todos esos campos vacíos.
+
+Michael Vergara Troncoso   59:35
+¿Qué?
+
+Cristian Luke Cabello   59:42
+Dale a guardar para que pensamos que aún no se ha hecho las actividades.
+
+Michael Vergara Troncoso   59:42
+Yeah.
+No.
+
+Cristian Luke Cabello   59:47
+Entonces, para el sistema ya nació la hoja uno, que está amarrada al documento de Codelco, tanto cierto.
+
+Michael Vergara Troncoso   59:55
+Es todo previoso.
+
+Cristian Luke Cabello   59:56
+Ok, pínchalo.
+Pincha el registro.
+Ahora que tú pinchaste ese registro, tú tienes lo que tú creaste en ese primer cuadro, está diciendo, estoy asociado a esta revisión.
+
+Michael Vergara Troncoso   1:00:03
+Faster.
+
+Cristian Luke Cabello   1:00:13
+Ahí esa revisión, elimínala abajo donde dice uno a.
+Porque ese registro era antes de cargar con ustedes, tócalo y elimínalo.
+Ok, elimina.
+
+Michael Vergara Troncoso   1:00:26
+El.
+
+Cristian Luke Cabello   1:00:27
+Eliminar, allá arribita, eliminarlo.
+Hasta ahí estaríamos con lo que hicimos. Entonces creamos un registro. La aplicación sabe que existe la hoja uno y hasta el momento no le hemos cargado un PDF a la hoja uno. Crea rápidamente el 2 y el 3.
+
+Michael Vergara Troncoso   1:00:46
+Watch it.
+
+Cristian Luke Cabello   1:00:46
+Trata de cargar ahora la hoja 2 y 3.
+Bien, rápido, ¿viste? 005.
+
+Michael Vergara Troncoso   1:00:52
+Hola.
+What's up?
+Según yo.
+
+Cristian Luke Cabello   1:01:01
+2 y 3. Ahí ya pasa lo que tú me dijiste delante, no puedo volver a crear la uno porque la uno ya la conoce. Si yo por error intentara volver a crear la uno, ya no me dejaría.
+
+Michael Vergara Troncoso   1:01:12
+Correcto.
+
+Cristian Luke Cabello   1:01:17
+Voy a tomar.
+
+Michael Vergara Troncoso   1:01:21
+Yo creo que no.
+Sí.
+
+Cristian Luke Cabello   1:01:27
+En.
+Pizza.
+Es una reunión.
+Pues nada de. Pero. En inglés. Gracias.
+
+Michael Vergara Troncoso   1:01:45
+You?
+
+Cristian Luke Cabello   1:01:59
+Aquí sale los datos que están al final, que están demás.
+
+Michael Vergara Troncoso   1:02:09
+Espera que me equivoqué en ese.
+
+Cristian Luke Cabello   1:02:12
+Sí, estaba mirando que estaba asociado a otro documento.
+
+Michael Vergara Troncoso   1:02:13
+Seven?
+Ok.
+I want it to.
+
+Cristian Luke Cabello   1:02:20
+Ya esta parte es muy importante porque cada vez que ustedes crean el primer valor de la entidad por ejemplo estamos creando el isométrico después esa información va a ser ocupada por toda la aplicación no los va a ustedes volver a pedir nunca más de no Oye ingresa esto ingresa aquello entonces la primera vez tiene que ser súper ordenadito súper clarita la información que ingresa
+En un comienzo se ve que es un poco.
+Un poco complejo, pero a la larga después le van a agarrar el ritmo y van a van a tener un.
+
+Michael Vergara Troncoso   1:03:01
+Thank you.
+
+Cristian Luke Cabello   1:03:02
+Flujo rápido de carga de información de consulta van a tener la posibilidad de eliminar, de editar.
+
+Michael Vergara Troncoso   1:03:09
+What?
+Consulta, Cristian.
+
+Cristian Luke Cabello   1:03:13
+Dime.
+
+Michael Vergara Troncoso   1:03:14
+Por ejemplo, yo allá al ver al ingresado el mismo número de línea más el de Codelco, es posible que el del contratista ya te lo dé solo, ya que los otros 2 ya te los tiene identificados.
+
+Cristian Luke Cabello   1:03:29
+Sí, mira, como tú ya le enseñaste la aplicación en la hoja número uno, voy a probar que en la siguiente hoja ya esté pre rellenado ese campo ya.
+
+Michael Vergara Troncoso   1:03:40
+No.
+
+Cristian Luke Cabello   1:03:40
+estoy viendo ahora con lo que tú estás haciendo que sería una buena mejora implementarlo te lo va a pedir solamente en la hoja número uno y ya para la siguiente hoja él debería saber ya que Qué documento Y qué plano de contratista es buena maestra
+
+Michael Vergara Troncoso   1:03:48
+No.
+
+Cristian Luke Cabello   1:04:01
+Entonces, Dragon y Dragon contradicta.
+
+Michael Vergara Troncoso   1:04:11
+Está entregado los 3.
+
+Cristian Luke Cabello   1:04:15
+Yeah.
+Ya entonces ahí, en teoría, tú tienes una línea con sus 3 isométricos, estamos de acuerdo en ese concepto.
+
+Michael Vergara Troncoso   1:04:23
+Sí.
+
+Cristian Luke Cabello   1:04:25
+Ok, entonces se nos acabó el tiempo de la reunión. Igual Michael, te la voy a dejar un ratito más. Asimismo, como creaste la lista de la isometría, tú puedes crear ahora el spool y puedes crear la unión. Vale a el intento de crear.
+
+Michael Vergara Troncoso   1:04:39
+A.
+Sí.
+Sí, vale.
+
+Cristian Luke Cabello   1:04:44
+Un spool en la hoja uno y yo me voy, pucha, feliz.
+
+Michael Vergara Troncoso   1:04:48
+Eres le.
+
+Cristian Luke Cabello   1:04:49
+Trata de llegar ahora a crear un spool.
+¿Te acuerdas que implementamos el asunto de los tags de gestión en Concón?
+
+Michael Vergara Troncoso   1:05:02
+Sí.
+
+Cristian Luke Cabello   1:05:02
+¿Tú estás creando ahora el spool 001 de tu obra?
+
+Michael Vergara Troncoso   1:05:07
+Sí.
+
+Cristian Luke Cabello   1:05:08
+¿Te fijas que te lo veo de una vez?
+Ya el ahí, cómo se llama el primer espull, pero uno.
+
+Michael Vergara Troncoso   1:05:16
+Sí.
+
+Cristian Luke Cabello   1:05:16
+¿Donde te está reclamando el cero uno, donde falta el cero uno?
+Ya no, dale solo 2 dígitos porque ya no vamos a tener 500 como no de diésemos ya y ahí se termina de completar el nombre. Fíjate arriba, entonces me llamo como a la línea, me llamo como mi hoja y soy el spool uno. Ese es el es el spool uno de nacimiento y su tag de gestión va a ser el uno.
+
+Michael Vergara Troncoso   1:05:27
+Sí.
+
+Cristian Luke Cabello   1:05:43
+Dale ve si tiene algún campo obligatorio y dale guardar para que tratemos de crear el número 2. Estos campos tenemos que conversarlo igual si te acomodan, si te sirven, si necesitan más, si con todo lo que está aquí estás cubierto o necesitas más columnas, pero eso dejémoslo ya para lo interno. Ahora como reunión le damos vale guardar y con eso vamos a crear el listo de haber guardado y creado un spool en la primera reunión.
+
+Michael Vergara Troncoso   1:05:48
+Thank you.
+
+Cristian Luke Cabello   1:06:06
+Ya ahí el área general yo no conozco tu área, no sé si la tienes clara con respecto al área o le colocamos 001 la prueba, no sé tú.
+
+Michael Vergara Troncoso   1:06:14
+Cero cero uno.
+
+Cristian Luke Cabello   1:06:16
+Yeah.
+Guarda.
+Entonces, con eso tú dijiste, tengo un diagrama, tengo una línea, tengo un isométrico, tengo un spool. o K, si tú te sales ahora al menú principal, deberías tener información en cada una de esas de esas ventanitas.
+
+Michael Vergara Troncoso   1:06:26
+Do.
+Sí.
+Yo.
+
+Cristian Luke Cabello   1:06:38
+Los primeros, Los primeros cargas fueron masivas porque asumíamos que había una un trabajo previo de alguien en un Excel que puede ser llevado de esa forma. Ahí entraste a los diagramas. Lo que tú hiciste genial, vuelve atrás. Piping.
+Tienes poblada tu tabla de líneas que la poblamos masivamente.
+Toda tu línea.
+Vuelve atrás.
+Spool.
+Es ya y ahí tenemos el tag de gestión, esperando después 2 cosas más que va a esperar la ubicación y su proceso. ¿Te acuerdas que llevábamos si estaba fabricado o si estaba en algún lugar físico?
+
+Michael Vergara Troncoso   1:07:14
+Hola.
+Sí, yo ofrenda.
+
+Cristian Luke Cabello   1:07:20
+Ya entonces por ahora él solo nació, él existe 001 y existe con esa con esa estructura de nombre, soy línea hoja es pool.
+
+Michael Vergara Troncoso   1:07:22
+That's not.
+Go.
+Pues.
+
+Cristian Luke Cabello   1:07:30
+Vale, por ahora damos por cerrado este breve acercamiento a la.
+
+Michael Vergara Troncoso   1:07:31
+Pablo.
+O.
+
+Cristian Luke Cabello   1:07:38
+A la aplicación, cuénteme.
+
+Michael Vergara Troncoso   1:07:38
+Perdón, no te no se entendió el último triste. Ah, ya.
+
+Cristian Luke Cabello   1:07:42
+Hasta aquí llegamos, pues en post del tiempo, pero dame tu comentario final.
+
+Michael Vergara Troncoso   1:07:45
+Acabo de.
+No, más o menos los comentarios por un ejemplo, ahora voy a revisar para que de la los otros datos que nos pedió cuando creabai el spool. Por ejemplo, ese lo creamos en las líneas, en las líneas. No, sí.
+
+Cristian Luke Cabello   1:07:58
+Ya.
+Sí, a partir de una línea, tú generas tu.
+
+Michael Vergara Troncoso   1:08:07
+Sí.
+Y en esa te creamos.
+No.
+
+Cristian Luke Cabello   1:08:19
+Ya isométrico asociado, baja, tiene los spool asociados ahí mismo, ahí está.
+
+Michael Vergara Troncoso   1:08:25
+Mhm.
+
+Cristian Luke Cabello   1:08:25
+¿Y tú creaste spool dentro de la hoja uno, te acuerdas?
+
+Michael Vergara Troncoso   1:08:29
+Safe.
+
+Cristian Luke Cabello   1:08:30
+Y ahí tienes que tener algún asociado.
+
+Michael Vergara Troncoso   1:08:33
+Por un asociado, sí, pues solamente agregan dieta.
+
+Cristian Luke Cabello   1:08:35
+Ya bueno, ahí podemos cambiar la vista para que indique algo más descriptivo.
+Pinche el uno.
+
+Michael Vergara Troncoso   1:08:41
+Elica.
+
+Cristian Luke Cabello   1:08:43
+Y ahí está tu spool, es que está guardado dentro del área uno. Como no definimos el área, tenemos que definir eso, pero te fijaste que una cosa fue llevando la otra hasta que llegamos ahora acá al spool. En teoría, tú ahora de ese spool puedes generar las uniones de ese spool.
+
+Michael Vergara Troncoso   1:08:45
+Sí.
+Sí, correcto.
+Sí.
+
+Cristian Luke Cabello   1:08:58
+Es lo mismo que fuimos.
+
+Michael Vergara Troncoso   1:09:00
+Sí, correcto.
+
+Cristian Luke Cabello   1:09:01
+Ya entonces esto tiene que bajar ahora entre ustedes una conversación, analicen las carpetas que les compartí, las columnas que les ofrecemos por ahora. ¿Qué información estamos dejando fuera?
+
+Michael Vergara Troncoso   1:09:10
+Sí, hay algunas columnas, Cristian, hay algunas columnas que por temas del de programa, por planificación que le queremos agregar, que son unos códigos que van a ocupar ellos para poder llevar el control en el en la programación.
+
+Cristian Luke Cabello   1:09:29
+Ahí me aproveché de responder el correito que pasaba la otra vez con respecto a la información que ustedes necesitan llevar, como la van a llevar, que columnas van a usar.
+
+Michael Vergara Troncoso   1:09:35
+Sí.
+Sí, por eso no respondió el correo por el tema de que todavía no nos han definido lo la planilla, así como listado o ubicación, todavía no está terminada al 100%.
+
+Cristian Luke Cabello   1:09:41
+¿No, si igual yo entiendo que están con la mente, no?
+Ok, pero por eso la idea a lo mejor no es sobrecargarlo con otra actividad más, sino que ustedes entiendan que también va a ser una herramienta que va a ser súper potente para después su actividad de seguimiento.
+
+Michael Vergara Troncoso   1:10:00
+Sí, sí, la idea de nosotros es tener ya el solicitado como ubicación ya al 100% y sería como la opción que te da de cargar masivamente. La información es mucho mejor.
+
+Cristian Luke Cabello   1:10:13
+Ya y después tenemos que hablar de cómo conectamos los resultados que van a obtener ustedes asus datos, cachai a su registro, claro, ya pues.
+
+Michael Vergara Troncoso   1:10:19
+A los registros, claro.
+
+Cristian Luke Cabello   1:10:23
+And so.
+
+Michael Vergara Troncoso   1:10:23
+Sí.
+
+Cristian Luke Cabello   1:10:25
+Háblenlo un poquito.
+¿Es tal Enzo por ahí, Michael?
+
+Michael Vergara Troncoso   1:10:33
+Bing.
+
+Enzo Santambrogio Vega   1:10:33
+Sí, que tenía el micrófono apagado, disculpa.
+
+Cristian Luke Cabello   1:10:37
+Enzo, cuéntanos.
+
+Michael Vergara Troncoso   1:10:40
+Yeah.
+Yeah.
+
+Enzo Santambrogio Vega   1:10:52
+y entran sea una ayuda para mí es bienvenida lo que sí me gustaría que que tuviera alguna cosa específica que se utilizan en el H F por ejemplo que controle El Avance diario por ejemplo que podamos controlar lo que es las pulgadas los poolers las uniones
+
+Michael Vergara Troncoso   1:10:52
+It.
+
+Cristian Luke Cabello   1:10:59
+Ya.
+
+Enzo Santambrogio Vega   1:11:10
+Y que pueda otorgar monográficos que se generalmente se utilizan en el país, que son curvas S.
+
+Cristian Luke Cabello   1:11:17
+Ajá.
+
+Enzo Santambrogio Vega   1:11:18
+Entonces podemos hacer todo lo que el porcentaje programado es el porcentaje real de fabricación y algunas y algo.
+
+Michael Vergara Troncoso   1:11:19
+The mouse.
+
+Cristian Luke Cabello   1:11:19
+Ya pues.
+Claro, ahí vienen las columnas que decían la fecha de compromiso.
+
+Michael Vergara Troncoso   1:11:27
+De alguna.
+¿Y alguna?
+
+Enzo Santambrogio Vega   1:11:31
+Claro, y algunas cositas específicas, por ejemplo, que me gustaría, el porcentaje de eficiencia de los soldadores, porcentaje de eficiencia de rechazo también de los soldadores, que es importante siempre en todos los proyectos lo piden porque para evaluar a los soldadores que son buenos, si son malos, si tienen un buen rendimiento, si tienen bajo rendimiento.
+
+Michael Vergara Troncoso   1:11:36
+A.
+Enter.
+Sí.
+
+Cristian Luke Cabello   1:11:51
+Claro, este esta es la oportunidad de que de que metamos toda esa información en la tabla, porque lo que se quiere acá, muchachos, es que después que ustedes den más o menos su veredicto, puede decirse de la aplicación del uso que le dieron, todo la idea de la gente es tratar de escalar esto a una aplicación formal de Echeverría.
+
+Enzo Santambrogio Vega   1:11:52
+Y.
+
+Michael Vergara Troncoso   1:11:52
+No.
+
+Cristian Luke Cabello   1:12:12
+Tenemos que tomarlo como aprendizaje todo este recorrido que vamos teniendo con la aplicación. Si a mitad de camino vemos que necesitamos más información, también va a ser válido hacerlo saber. Oye, necesito registrar tal cosa, pero ahora en este punto que estamos iniciando, bienvenidos todo ese feedback que nos puedan entregar, bienvenido que analícenlo ahí, convérselo.
+Formalicen un correito y lo y lo ven.
+Ya pues, que tengan buena tarde.
+
+Michael Vergara Troncoso   1:12:39
+Rajaya Drikiam.
+
+Enzo Santambrogio Vega   1:12:39
+Gracias.
+
+Cristian Luke Cabello   1:12:41
+Chao, chao.
+
+Enzo Santambrogio Vega   1:12:44
+Chao.
+
+Michael Vergara Troncoso   1:12:44
+Chao que también.
+
+Enzo Santambrogio Vega   1:12:48
+Hasta luego.

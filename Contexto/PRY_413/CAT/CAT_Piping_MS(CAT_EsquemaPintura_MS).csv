@@ -1,0 +1,6 @@
+﻿ID_PINTURA;SISTEMA_APLICACION;PREPARACION_SUPERFICIE;CAPAS;ESPESOR_TOTAL_UM;DETALLE_CAPAS
+EPC-9;Acero Superficial (Cordillerano);SSPC-SP10;4;275;Imprimante P14 (100) + Inter P14 (100) + Term P19 (50) + Sello P25 (25)
+TRICAPA;Acero Enterrado (FBE);SSPC-SP5;3;2125;Capa 1 FBE (150) + Capa 2 Adhesivo (175) + Capa 3 HDPE (1800)
+C209;Acero Enterrado (Cintas);Manual/Mecánico;2;0;Puente adherencia + Cinta anticorrosiva AWWA C209
+C210;Acero Enterrado (Líquido);Automático;0;0;Revestimiento epóxico líquido AWWA C210
+N/A;Sin Esquema Pintura;N/A;0;0;Aplica para HDPE, Galvanizado o PVC

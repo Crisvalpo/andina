@@ -1,0 +1,4 @@
+﻿ID_PRUEBA;APLICACION;CONDICION_DISENO;MEDIO_FLUIDO
+Hidrostática;Prueba hidrostática acero;1.5x diseño, 2h;Agua Potable
+Hidrostática HDPE;Prueba hidrostática plásticos;1.5x nominal;Agua Potable
+Neumática;Prueba neumática gas;1.1x diseño;Aire Comprimido
