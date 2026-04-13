@@ -1,0 +1,203 @@
+﻿ITEM;NOMBRE Sdis;Descricpión;Enviado por;CODIGO DAND;REV;ESTADO;FECHA ENVÍO;FECHA DAND;Descripcion de Respuesta
+11;Confirmación de ejecución tie ins, y su oportunidad de ejecución;Se requiere ratificar que del Listado de Tie Ins, ya se ejecutó el TIE INS 03351-001;Fernando Espinoza;4600030604-SDICA-00001;0;RESPONDIDA;45943;45954;Se confirma que el TIE INS 03351-001 ya se ejecutó, y se mantienen las observaciones del documento. Se confirman los meses de paradas de planta, se deben coordinar las fechas específicas según avance el proyecto.
+12;Listado de líneas del proyecto;Se solicita información y/o entrega de un listado de líneas del proyecto.;Fernando Espinoza;4600030604-SDICA-00002;0;RESPONDIDA;45944;45953;Se adjunta documento 4600022667-001-03350-CUBCA-00001_0. Anexo Cubicacion de materiales de cañerias todos los servicios
+13;Listado de lineas;Se solicita informacion y/o entrega de isomtricos pendientes debido a que se han recibido 11 isometricos de 100;Ignacio Ferrada;4600030604-SDICA-00003;0;RESPONDIDA;45959;45967;Planos y documentos que dan respuesta a esta SDI en la nube. Ruta de acceso a la nube: Carpeta Eimisa...Subcarpeta...Respuesta SDICA-00003_0 (031125)
+14;Ratificar Lineas de Costura CT;Se solicita ratificar que el tipo de cañería a utilizar en las líneas de concentrado es de tipo ERW, con costura;Ignacio Ferrada;4600030604-SDICA-00004;0;RESPONDIDA;45967;45976;Ruta de acceso a la nube: Carpeta Eimisa...Subcarpeta...Respuesta SDICA-00003_0 (031125)
+15;Hoja de Datos de Valvulas del Proyecto;Se solicita infirmacion de las hojas de datos de las valvulas del proyecto;Ignacio Ferrada;4600030604-SDICA-00005;0;RESPONDIDA;45967;45976;"Se adjunta:
+Hoja de datos Válvulas Pinch y Cono. Hoja de datos Válvulas de Cuchillo. Listado de Válvulas"
+16;"Software de diseño de
+cañerías y sus complementos";Se solicita información si se encuentra disponible el PCF, spoolgen o sofware Plant 3D de cañerías del proyecto;Ignacio Ferrada;4600030604-SDICA-00006;0;RESPONDIDA;45973;45983;"Se cargaron en la carpeta 2.0 ENTREGA DE NATIVOS los archivos en la carpeta Plant3D, el proyecto en formato de Proyecto de Plant 3D.
+El acceso esta autorizado para Elías Salvatierra de EIMISA.
+Link de acceso:
+https://codelcochile.sharepoint.com/:f:/t/DOCUMENTOSBIM/IgD2rlNXFK7NRrT97YydQgWiAWpALxS7LfMQK5JBJ77-_ZU"
+17;Curvas o codos en línea 0021-R3;Favor informar a qué material corresponde el ítem 4 del listado de materiales, pertenecientes al plano 4600022667-001-03350-502CA-00004 Hoja 12/27. Aclarar si son curvas 3D, 5D (45° o 90°) o simplemente codos, ya que el plano específica cañería.;Ignacio Ferrada;4600030604-03350-SDICA-00007;0;RESPONDIDA;45975;45987;Se debe considerar CURVA 90°, RADIO 5D, ASTM A53 GR B, ASME B16.49, GE, SCH STD, según lo que se muestra en maqueta. Ademas se adjunto hoja con plano referencial 
+18;Materialidad de los sellos de las coplas victaulic;Se requiere información de la materialidad del sello elastomérico de las coplas tipo Victaulic;Ignacio Ferrada;4600030604-03350-SDICA-00008;0;RESPONDIDA;45975;45985;"Para líeas con concentrado de cobre, se recomienda Nitrilo, por presencia de
+Petróleo.
+Se adjunta hoja técnica referencial para vuestra selección."
+19;Giro de modelo e isométricos según norte Planta;Se solicita entrega de Modelo e Isométricos actuales según orientación Norte Planta, y no según norte geográfico como lo es actualmente;Fernando Espinoza;4600030604-03350-SDICA-00009;0;RESPONDIDA;45976;45982;"Los modelos proporcionados por DAND por Ingeniería de detalles, no pueden ser modificador por nosotros. Si el constructor estima conveniente el
+cambio para su propia estimación, entonces debe realizarlo y validarlo el mismo constructor"".
+En la SDI 0006_rev.0 (PIP) se solicitó el modelo en versión ""editable"" para el uso del constructor, su envío esta en proceso."
+110;Desarrollo de isometricos faltanes;"Dado que en la respuesta a la SDI N°003 de la disciplina Piping se indica que EIMISA considere la maqueta actual (modelo BIM) para el
+desarrollo de líneas (sólo hay isométricos asociados a 11 de 102 líneas), favor confirmar que EIMISA genere esta ingeniería de detalles. Esta información
+es esencial para definir proveedores de suministro/fabricación.";Fernando Espinoza;4600030604-03350-SDICA-00010;0;RESPONDIDA;45986;46008;Proceder con la preparación de los planos isométricos
+111;Criterios de diseño de cañerias;"Se solicita el documento SGP-02CAN-CRTTC-00001 Criterio de Diseño Corporativo Cañerías
+";Ignacio Ferrada;4600030604-03350-SDICA-00011;0;RESPONDIDA;45989;46007;Se adjunta documento: Criterio Diseño Cañerías: SGP-02CAN-CRTTC-00001 Rev 4
+112;Suministros GMAN valvulas;"Durante la revisión de listas de materiales entregadas, se identificó que varias válvulas están especificadas con la nota “Suministro
+GMAN”. Es necesario confirmar el alcance y la coordinación de este suministro para evitar riesgos de retraso y retrabajo en terreno.";;4600030604-03350-SDICA-00012;0;RESPONDIDA;46001;46009;"Los materiales identificados GMAN en los documentos del proyecto, NO SON SUMINISTRO DE EIMISA.
+A estos (GMAN) EIMISA le corresponde el montaje"
+113;Propuesta orientacion dibujos;"Se solicita confirmar la orientación de los isométricos a dibujar. Propuesta fue enviada el día 09DIC 22.19 hrs por Michael Vergara a la
+Inspección, y aprobada verbalmente por Jefe de Construcción Sr. Mauricio Alarcón; favor ratificar confirmación.
+Objetivo de la propuesta: mejorar la interpretación espacial y la orientación de las líneas,contribuyendo a una fabricación más eficiente y segura.";Michael Vergara Troncoso;4600030604-03350-SDICA-00013;0;RESPONDIDA;46013;46021;Se ratifica información entregada por el Sr. Mauricio Alarcón (Jefe Construcción J.E.J.)
+114;Discrepancias entre maqueta y diagrama;"En el diagrama de piping N° 4600022667-001-03350-201CA-00006, la línea se describe como:
+03351-FP-1""-C5-022-HC y 03351-FP-1""-C5-0121-HC
+Sin embargo, en la maqueta 3D y/o descripción asociada, la misma línea se indica como:
+03351-FP-1""-C5-0122-N y 03351-FP-1""-C5-0121-N
+Lo anterior presenta una diferencia tanto en el correlativo de la línea (0122 vs 022) como en la condición de aislación (N vs HC).";;4600030604-03350-SDICA-00014;0;RESPONDIDA;46031;46057;Respecto de la codificación, se debe mantener del plano 4600022667-001-03350-201CA-00006
+115;Desplazamiento y cambio de elevacion piping;"Se solicita confirmar, lo conversado en reunión el miércoles 08/01/2025 sostenida con el jefe de construcción, Sr Mauricio Alarcon, respecto modificaciones en el trazado de piping.
+Según lo indicado en dicha reunión, se confirma que:
+-
+El piping comprendido entre las fundaciones “FUN-008_3 y FUN-008_21” se desplaza 500mm dirección oriente (hacia cordillera)
+-
+Adicionalmente, las líneas de piping de espesador existente hacia nuevo espesador presentan un cambio de elevación -1000mm respecto las condiciones originalmente consideradas.";;4600030604-03350-SDICA-00015;0;RESPONDIDA;46034;46057;Fue respondido, se mantiene la elevación de las líneas y se desplaza en el horizontal los 500 mm indicados.
+116;Incongruencia entre isometrico y diagrama;"Durante la revisión de la documentación de ingeniería se detecta una discrepancia entre el isométrico y el diagrama asociado.
+ORIGEN DE LA INCONSISTENCIA: En particular, el isométrico 03351-CT-6""-C3-0030-R3 indica que la línea cuenta con recubrimiento interior mientras que el diagrama 4600022667-001-03350-201CA-00004 indica que la línea no cuenta con revestimiento.
+Por lo que se requiere validar la coherencia entre documentos, debido que el isométrico señala recubrimiento interior, a diferencia del diagrama donde no se indica";;4600030604-03350-SDICA-00016;0;RESPONDIDA;46041;46059;Mantiene lo que indica el plano isométrico 4600022667-001-03350-502CA-00008
+117;Consulta Revestimiento Interior;"La siguiente SDI para consultar la factibilidad de utilizar revestimiento interior de neopreno de 10mm de espesor en las líneas de concentrado que así lo requieren.
+El requerimiento se plantea a partir de una recomendación técnica del fabricante, quien sugiere la utilización de revestimiento en espesor de 10mm para este tipo de aplicación, considerando criterios de fabricación, desempeño y condiciones operacionales del sistema.
+Entendiendo que las especificaciones técnicas actualmente establecen un espesor de 15 mm para este servicio, se solicita evaluar y confirmar la factibilidad de aceptar el uso de revestimiento interior de neopreno de 10 mm
+ORIGEN DE LA INCONSISTENCIA: En particular, los isométricos con clasificación de aislación R-3";;4600030604-03350-SDICA-00017;0;RESPONDIDA;46063;46066;Se acepta la modificación del espesor del revestimiento interior.
+118;Discrepancias entre maqueta y largo de cañerias (colpas);"Se solicita revisión y aclaración respecto a discrepancia detectada en el Modelo 3D, donde se identificó que las líneas con longitudes
+mayores a 12 metros no muestran coplas de unión, a pesar de que estas deberían ser consideradas para su correcta fabricación, transporte y montaje en
+terreno.
+Esta omisión genera incertidumbre en la cubicación, planificación de isométricos y preparación de materiales.
+Algunas de las líneas afectadas. 03351-PW-2""-C1-0056-N / 03351-IA-2""-G1-0112-N / 03351-IA-2""-G1-0110-N
+Solicitamos:
+1. Confirmar si la ausencia de coplas en la maqueta corresponde a:
+o Un error de modelado.
+o Un criterio de ingeniería no informado.
+o Una simplificación intencionada del modelo.
+2. En caso de ser un error, solicitar la actualización de la maqueta incorporando las coplas necesarias según normativa y práctica constructiva.
+3. Indicar si existe algún procedimiento, especificación o lineamiento que instruya omitir coplas en tramos mayores a 12 metros.
+4. Confirmar si estas coplas deben ser incluidas en cubicación y solicitudes de materiales, aun cuando no estén representadas en la maqueta
+actual.";;4600030604-03350-SDICA-00018;0;RESPONDIDA;46087;46088;"Las líneas consultadas corresponden a líneas menores. La definición de coplas y empalmes se resolverá en terreno durante la fabricación y
+montaje, de acuerdo con longitudes comerciales y práctica constructiva habitual."
+119;Alternativa de suministro;"En relación con las curvas 3D y 5D indicadas en la ingeniería, se consultó a proveedores respecto a su disponibilidad en el mercado con extremos ranurados.
+De acuerdo con lo informado, este tipo de curvas de radio largo no se comercializa normalmente como fitting ranurado, siendo su fabricación habitualmente curvada de tubería o curvas tipo Butt Weld (BW).
+En función de lo anterior, proponemos como alternativa de fabricar las curvas mediante tubería curvada, respetando el radio especificado (3D y 5D). Para permitir la conexión mediante ranurado, se considera soldar en cada extremo un niple recto con ranura para acople.
+Agradeceremos confirmar si esta alternativa es aceptable para el proyecto, o bien indicar el criterio a considerar.
+Esta alternativa permite:
+-
+Mantener el Radio de la curva requerido por el diseño
+-
+Conservar el sistema de conexión especificado
+-
+Utilizar componentes disponibles en el mercado";;4600030604-03350-SDICA-00019;0;RESPONDIDA;46092;46097;"Se acepta la alternativa propuesta para la fabricación de curvas 3D y 5D mediante tubería curvada y soldar en cada extremo
+un niple recto ranurado. (1)Respetar el radio de curvatura indicado en la ingeniería. (2) Soldaduras se ejecuten y ensayen segun lo indicado en EETT. (3) Espesores de curva + niple sea igual o superior a la tubería de diseño"
+120;Suministro fitting;"Se solicita autorizar el reemplazo de ángulos laminados especificados en ASTM A242 por ángulos laminados en ASTM A36, manteniendo las mismas dimensiones geométricas según planos. (SL-02C) 
+
+ Justificación técnica 
+
+Debido a disponibilidad de suministro, se propone el uso de ASTM A36 como alternativa. 
+
+ El material ASTM A36 cumple con los requerimientos estructurales del elemento. La principal diferencia respecto al A242 es su menor resistencia a la corrosión atmosférica, la cual será mitigada mediante la aplicación de protección superficial adecuada (pintura u otro recubrimiento especificado). 
+
+ Este cambio no afecta la funcionalidad ni el diseño estructural, siempre que se considere la protección anticorrosiva correspondiente. 
+
+ 
+ORIGEN DE LA INCONSISTENCIA: No hay inconsistencia, Alternativa de fabricación. 
+
+ SECTORES O ÁREAS INVOLUCRADAS:  
+
+ Soportes Piping Sector Pipe Rack  ";Enzo Santambrogio;4600030604-03350-SDICA-00020;0;RESPONDIDA;46112;46112;"SGP-GI-CA-MES-001 y SGPD-02CAN-STDTC-0001 indican que se puede reemplazar el acero laminado ASTM A242 por acero 
+laminado ASTM A36 y de las mismas dimensiones, siempre y cuando se apliquen los requisitos de diseño y corrosión controlada 
+con pintura epoxica. Se ACEPTA "
+121;CONSULTA PROFUNDIDAD DE LÍNEA A REEMPLAZAR;"DESCRIPCIÓN: Se solicita autorizar el reemplazo de ángulos laminados especificados en ASTM A242 por ángulos laminados en ASTM A36, manteniendo las mismas dimensiones geométricas según planos. (SL-02C) 
+
+ 
+
+Justificación técnica 
+
+Debido a disponibilidad de suministro, se propone el uso de ASTM A36 como alternativa. 
+
+ 
+
+El material ASTM A36 cumple con los requerimientos estructurales del elemento. La principal diferencia respecto al A242 es su menor resistencia a la corrosión atmosférica, la cual será mitigada mediante la aplicación de protección superficial adecuada (pintura u otro recubrimiento especificado). 
+
+ 
+
+Este cambio no afecta la funcionalidad ni el diseño estructural, siempre que se considere la protección anticorrosiva correspondiente. 
+
+ 
+
+ORIGEN DE LA INCONSISTENCIA: No hay inconsistencia, Alternativa de fabricación. 
+
+ 
+
+SECTORES O ÁREAS INVOLUCRADAS:  
+
+ 
+
+Soportes Piping Sector Pipe Rack  ";Enzo Santambrogio;4600030604-03350-SDICA-00021;0;RESPONDIDA;46105;46108;"Profundidad para la instalación nueva linea 0,6 mt a la clave.
+Profundidad actual de la cañería 0,30 mt"
+122;Cambio END Tie in °03;"DESCRIPCIÓN: Cambio de END, en tie in #3 de RX a LP
+
+Justificación técnica
+
+Por cambio de ubicación del tie in #3, se debe colocar una Te, generando una unión Butt Weld, en vez de una unión Branch Weld, como estaba considerada anteriormente, ver croquis del nuevo spool tie in 3
+
+Sólo estaba considerado inspección mediante Líquidos Penetrantes por nuestros inspectores. Al considerar RX, no se alcanza a acreditar al personal de nuestro Sub-contrato, en proceso de vinculación comercial
+
+Se considera inspección paso a paso para esta unión, revisando cada cordón depositado en la unón por el inspector y al final 100 LP
+
+Fecha de confirmación de cambio tie in #3: 17-03-2026
+
+ORIGEN DE LA INCONSISTENCIA: Se realiza mejora de tie ins, acercándose más al espesador.
+
+SECTORES O ÁREAS INVOLUCRADAS: 
+
+-	Tie In #3
+";Octavio Fernandez;4600030604-03350-SDICA-00022;0;RESPONDIDA;46108;46112;Se acepta propuesta de inspección END mediante método LP al 100% para ese punto.
+123;Revision y aprobacion para construccion Tie-in-005;"Se remiten la Siguiente SDI asociadas al Tie-in-005 en las cuales se adjunta el croquis correspondiente a los puntos de ubicación, intervención definidos.
+
+Lo anterior se envía para su revisión, conocimiento y aprobación, conforme a lo conversado en reuniones y coordinaciones en terreno.
+Agradeceré puedan revisar la información y emitir sus comentarios u observaciones a la brevedad, a fin de continuar con la planificación y ejecución de los trabajos.
+
+
+
+ORIGEN DE LA INCONSISTENCIA: No hay inconsistencia.
+
+SECTORES O ÁREAS INVOLUCRADAS: 
+
+-	Parada de planta Abril  
+";Enzo Santambrogio;4600030604-03350-SDICA-00023;0;RESPONDIDA;46108;46112;De acuerdo a lo conversado en reuniones y visitas a terreno se ACEPTA la propuesta Tie-in N°5
+124;Revision y aprobacion para construccion Tie-in-006;":  Se remiten la Siguiente SDI asociadas al Tie-in-006 en las cuales se adjunta el croquis correspondiente a los puntos de ubicación, intervención definidos.
+
+Lo anterior se envía para su revisión, conocimiento y aprobación, conforme a lo conversado en reuniones y coordinaciones en terreno.
+Agradeceré puedan revisar la información y emitir sus comentarios u observaciones a la brevedad, a fin de continuar con la planificación y ejecución de los trabajos.
+
+
+
+ORIGEN DE LA INCONSISTENCIA: No hay inconsistencia.
+
+SECTORES O ÁREAS INVOLUCRADAS: 
+
+-	Parada de planta Abril  
+";Enzo Santambrogio;4600030604-03350-SDICA-00024;0;RESPONDIDA;46108;46112;Se aprueba isométrico
+125;Revision y aprobacion para construccion Tie-in-003;":  Se remiten la Siguiente SDI asociadas al Tie-in-003 en las cuales se adjunta el croquis correspondiente a los puntos de ubicación, intervención definidos.
+
+Lo anterior se envía para su revisión, conocimiento y aprobación, conforme a lo conversado en reuniones y coordinaciones en terreno.
+Agradeceré puedan revisar la información y emitir sus comentarios u observaciones a la brevedad, a fin de continuar con la planificación y ejecución de los trabajos.
+
+
+
+ORIGEN DE LA INCONSISTENCIA: No hay inconsistencia.
+
+SECTORES O ÁREAS INVOLUCRADAS: 
+
+-	Parada de planta Abril  
+
+";Enzo Santambrogio;4600030604-03350-SDICA-00025;0;RESPONDIDA;46108;46112;De acuerdo a lo conversado en reuniones y en terreno, se APRUEBA la solicitud referida Tie-in N°3
+126;Compatibilidad de caras de flanges FF  y RF;"En revisión de la ingeniería asociada a la maqueta, se observa que las salidas de drenaje consideran flanges tipo RF (Raised Face).
+Sin embargo, las válvulas disponibles para estas líneas corresponden a flanges tipo FF (Flat Face).
+Considerando lo anterior, se genera una incompatibilidad en la configuración actual entre los elementos a montar.
+
+Consulta:
+Se solicita confirmar si es aceptable:
+•	Ajustar la configuración de las conexiones de drenaje a FF o bien, indicar si se debe:
+Mantener la configuración RF definida en ingeniería.
+
+Línea de Ejemplo:
+
+•	03351-CT-3""-C2-0067-N 
+•	03351-CT-3""-C2-0086-N
+•	03351-CT-3""-C2-0071-N
+•	03351-CT-3""-C2-0063-N
+•	03351-CT-3""-C2-0012-N
+
+
+ORIGEN DE LA INCONSISTENCIA: Conexión FF VPN con Flange Slip-ON RF
+
+SECTORES O ÁREAS INVOLUCRADAS: 
+
+-	Salidas válvulas Pinch
+";Enzo Santambrogio;4600030604-03350-SDICA-00026;0;PENDIENTE;46113;;

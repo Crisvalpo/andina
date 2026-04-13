@@ -302,3 +302,32 @@ Cada fila aquí es un **Bulto, Pallet o Paquete** físico real. Puede nacer vinc
 1. Se agregaron las columnas `;SPOOLED_BY;FECHA_SPOOLING;REV_SPOOLING` al encabezado del archivo físico `LOG_Piping_MS(LOG_Iso_MS).csv`.
 2. **Requerimiento en AppSheet:** El administrador debe "Regenerar" la tabla `LOG_Iso_MS` en el editor de AppSheet y asegurar que la "Data Action" del Bot de actualización incluya el mapeo de estos tres campos desde el LOG hacia el LIST.
 
+---
+
+## 🤖 Módulo 8: Automatizaciones de Ciclo de Vida de Spools (Bots)
+
+**Objetivo:** Automatizar la actualización del estado y ubicación de los spools en la tabla maestra (`LIST_Spools_MS`) a medida que se registran eventos en las tablas de control logístico y de calidad.
+
+### 1. Matriz de Automatización (Events -> Actions)
+
+| Evento de Origen | Tabla Gatillo | Condición | Acción en `LIST_Spools_MS` |
+| :--- | :--- | :--- | :--- |
+| **Liberación Dimensional** | `REG_DimensionalSpool_MS` | `[RESULTADO] = "APROBADO"` | `ESTADO_CICLO_VIDA`: "Liberado Dimensional"<br>`UBICACION_ACTUAL`: "Patio Taller"<br>`FECHA_FIN_FAB`: `[FECHA]`<br>`ESTADO_FABRICACION`: "🟢 EJECUTADO" |
+| **Despacho a Pintura** | `REG_LogisticaSpool_MS` | `[EVENTO] = "DESPACHO_PINTURA"` | `ESTADO_CICLO_VIDA`: "En Pintura"<br>`UBICACION_ACTUAL`: "Planta Pintura"<br>`FECHA_ENVIO_PINTURA`: `[FECHA]` |
+| **Liberación de Pintura**| `REG_PinturaSpool_MS` | `[RESULTADO] = "APROBADO"` | `ESTADO_CICLO_VIDA`: "Liberado Pintura"<br>`UBICACION_ACTUAL`: "Patio Pintura"<br>`FECHA_RECEPCION_PINTURA`: `[FECHA]` |
+| **Despacho a Terreno** | `REG_LogisticaSpool_MS` | `[EVENTO] = "DESPACHO_TERRENO"` | `ESTADO_CICLO_VIDA`: "En Tránsito"<br>`UBICACION_ACTUAL`: "Transporte"<br>`FECHA_DESPACHO_REAL`: `[FECHA]` |
+| **Recepción Terreno** | `REG_LogisticaSpool_MS` | `[EVENTO] = "RECEPCION_TERRENO"` | `ESTADO_CICLO_VIDA`: "En Terreno"<br>`UBICACION_ACTUAL`: "Bodega Terreno"<br>`FECHA_LLEGADA_TERRENO`: `[FECHA]` |
+
+### 2. Lógica Técnica de Implementación (AppSheet Actions)
+
+Para cada Bot, se requiere configurar una acción de tipo **"Data: execute an action on a set of rows"**:
+- **Referenced Rows:** `LIST(LOOKUP([ID_SPOOL], "LIST_Spools_MS", "ID_SPOOL", "ID_SPOOL"))`
+- **Action to run:** Una acción de actualización ("Data: set the values of some columns in this row") en la tabla `LIST_Spools_MS`.
+
+### 3. Notificaciones Proactivas (Telegram via jAIme)
+Cada uno de estos eventos debe disparar un mensaje al grupo de supervisión indicando:
+- `📦 Spool [TAG_SPOOL] ha cambiado a estado: [ESTADO_CICLO_VIDA]`
+- `📍 Ubicación: [UBICACION_ACTUAL]`
+- `👤 Responsable: [USUARIO]`
+
+
